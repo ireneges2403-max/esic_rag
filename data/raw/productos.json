@@ -1,47 +1,32 @@
 [
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/26153759-cereales-rellenos-de-avellana-eroski-bolsa-500-g/",
-    "titulo": "CEREALES RELLENOS DE AVELLANA EROSKI, BOLSA 500 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/733923-cereales-muesli-crunch-con-dos-chocolates-eroski-caja-500-g/",
+    "titulo": "CEREALES MUESLI CRUNCH CON DOS CHOCOLATES EROSKI, CAJA 500 G",
     "valores_nutricionales_100_g": {
-      "Grasas": "15 gramos",
-      "Saturadas": "2.5 gramos",
-      "Hidratos de carbono": "71 gramos",
-      "Azucares": "33 gramos",
-      "Proteinas": "5.2 gramos",
-      "Sal": "0.87 gramos",
+      "Grasas": "16.5 gramos",
+      "Saturadas": "5.5 gramos",
+      "Hidratos de carbono": "63.6 gramos",
+      "Azucares": "29.2 gramos",
+      "Proteinas": "9 gramos",
+      "Sal": "0.5 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 2.1,
+    "precio_total": 2.35,
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/26153759-cereales-rellenos-de-avellana-eroski-bolsa-500-g/?ratingsZone=true&withRating=true",
-    "titulo": "CEREALES RELLENOS DE AVELLANA EROSKI, BOLSA 500 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/733923-cereales-muesli-crunch-con-dos-chocolates-eroski-caja-500-g/?ratingsZone=true&withRating=true",
+    "titulo": "CEREALES MUESLI CRUNCH CON DOS CHOCOLATES EROSKI, CAJA 500 G",
     "valores_nutricionales_100_g": {
-      "Grasas": "15 gramos",
-      "Saturadas": "2.5 gramos",
-      "Hidratos de carbono": "71 gramos",
-      "Azucares": "33 gramos",
-      "Proteinas": "5.2 gramos",
-      "Sal": "0.87 gramos",
+      "Grasas": "16.5 gramos",
+      "Saturadas": "5.5 gramos",
+      "Hidratos de carbono": "63.6 gramos",
+      "Azucares": "29.2 gramos",
+      "Proteinas": "9 gramos",
+      "Sal": "0.5 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 2.1,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/25624669-cereales-con-chocolate-special-k-caja-325-g/",
-    "titulo": "CEREALES CON CHOCOLATE SPECIAL K, CAJA 325 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "6.1 gramos",
-      "Saturadas": "3.2 gramos",
-      "Hidratos de carbono": "81 gramos",
-      "Azucares": "17 gramos",
-      "Proteinas": "8.2 gramos",
-      "Sal": "0.64 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 4.35,
+    "precio_total": 2.35,
     "origen": "Eroski"
   },
   {
@@ -60,33 +45,18 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/348359-cereal-soluble-eko-frasco-150-g/",
-    "titulo": "CEREAL SOLUBLE EKO, FRASCO 150 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25624669-cereales-con-chocolate-special-k-caja-325-g/",
+    "titulo": "CEREALES CON CHOCOLATE SPECIAL K, CAJA 325 G",
     "valores_nutricionales_100_g": {
-      "Grasas": "0.4 gramos",
-      "Saturadas": "0.1 gramos",
-      "Hidratos de carbono": "74.4 gramos",
-      "Azucares": "5.5 gramos",
-      "Proteinas": "5.7 gramos",
-      "Sal": "0.23 gramos",
+      "Grasas": "6.1 gramos",
+      "Saturadas": "3.2 gramos",
+      "Hidratos de carbono": "81 gramos",
+      "Azucares": "17 gramos",
+      "Proteinas": "8.2 gramos",
+      "Sal": "0.64 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 3.65,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/348359-cereal-soluble-eko-frasco-150-g/?ratingsZone=true&withRating=true",
-    "titulo": "CEREAL SOLUBLE EKO, FRASCO 150 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.4 gramos",
-      "Saturadas": "0.1 gramos",
-      "Hidratos de carbono": "74.4 gramos",
-      "Azucares": "5.5 gramos",
-      "Proteinas": "5.7 gramos",
-      "Sal": "0.23 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 3.65,
+    "precio_total": 4.35,
     "origen": "Eroski"
   },
   {
@@ -120,21 +90,6 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/25653015-cereal-original-choco-krispies-caja-420-g/",
-    "titulo": "CEREAL ORIGINAL CHOCO KRISPIES, CAJA 420 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "1.9 gramos",
-      "Saturadas": "0.9 gramos",
-      "Hidratos de carbono": "84 gramos",
-      "Azucares": "17 gramos",
-      "Proteinas": "6.3 gramos",
-      "Sal": "0.65 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 3.65,
-    "origen": "Eroski"
-  },
-  {
     "url": "https://supermercado.eroski.es:443/es/productdetail/24096216-cereal-de-avena-nestle-cheerios-caja-300-g/",
     "titulo": "CEREAL DE AVENA NESTLÉ CHEERIOS, CAJA 300 G",
     "valores_nutricionales_100_g": {
@@ -165,78 +120,48 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/23117377-cereales-petalos-de-trigo-de-chocolate-eroski-caja-500-g/",
-    "titulo": "CEREALES PÉTALOS DE TRIGO DE CHOCOLATE EROSKI, CAJA 500 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25653015-cereal-original-choco-krispies-caja-420-g/",
+    "titulo": "CEREAL ORIGINAL CHOCO KRISPIES, CAJA 420 G",
     "valores_nutricionales_100_g": {
-      "Grasas": "4.4 gramos",
-      "Saturadas": "1 gramos",
-      "Hidratos de carbono": "75 gramos",
-      "Azucares": "24 gramos",
-      "Proteinas": "9.1 gramos",
-      "Sal": "0.34 gramos",
+      "Grasas": "1.9 gramos",
+      "Saturadas": "0.9 gramos",
+      "Hidratos de carbono": "84 gramos",
+      "Azucares": "17 gramos",
+      "Proteinas": "6.3 gramos",
+      "Sal": "0.65 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 2.0,
+    "precio_total": 3.65,
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/733923-cereales-muesli-crunch-con-dos-chocolates-eroski-caja-500-g/",
-    "titulo": "CEREALES MUESLI CRUNCH CON DOS CHOCOLATES EROSKI, CAJA 500 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/26153759-cereales-rellenos-de-avellana-eroski-bolsa-500-g/",
+    "titulo": "CEREALES RELLENOS DE AVELLANA EROSKI, BOLSA 500 G",
     "valores_nutricionales_100_g": {
-      "Grasas": "16.5 gramos",
-      "Saturadas": "5.5 gramos",
-      "Hidratos de carbono": "63.6 gramos",
-      "Azucares": "29.2 gramos",
-      "Proteinas": "9 gramos",
-      "Sal": "0.5 gramos",
+      "Grasas": "15 gramos",
+      "Saturadas": "2.5 gramos",
+      "Hidratos de carbono": "71 gramos",
+      "Azucares": "33 gramos",
+      "Proteinas": "5.2 gramos",
+      "Sal": "0.87 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 2.35,
+    "precio_total": 2.1,
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/733923-cereales-muesli-crunch-con-dos-chocolates-eroski-caja-500-g/?ratingsZone=true&withRating=true",
-    "titulo": "CEREALES MUESLI CRUNCH CON DOS CHOCOLATES EROSKI, CAJA 500 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/26153759-cereales-rellenos-de-avellana-eroski-bolsa-500-g/?ratingsZone=true&withRating=true",
+    "titulo": "CEREALES RELLENOS DE AVELLANA EROSKI, BOLSA 500 G",
     "valores_nutricionales_100_g": {
-      "Grasas": "16.5 gramos",
-      "Saturadas": "5.5 gramos",
-      "Hidratos de carbono": "63.6 gramos",
-      "Azucares": "29.2 gramos",
-      "Proteinas": "9 gramos",
-      "Sal": "0.5 gramos",
+      "Grasas": "15 gramos",
+      "Saturadas": "2.5 gramos",
+      "Hidratos de carbono": "71 gramos",
+      "Azucares": "33 gramos",
+      "Proteinas": "5.2 gramos",
+      "Sal": "0.87 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 2.35,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/350660-cereales-de-trigo-weetabix-caja-430-g/",
-    "titulo": "CEREALES DE TRIGO WEETABIX, CAJA 430 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "2 gramos",
-      "Saturadas": "0.6 gramos",
-      "Hidratos de carbono": "69 gramos",
-      "Azucares": "4.2 gramos",
-      "Proteinas": "12 gramos",
-      "Sal": "0.28 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 4.05,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/10873545-cereal-de-chocolate-negro-nestle-fitness-caja-375-g/",
-    "titulo": "CEREAL DE CHOCOLATE NEGRO NESTLÉ FITNESS, CAJA 375 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "8.3 gramos",
-      "Saturadas": "4.6 gramos",
-      "Hidratos de carbono": "68.5 gramos",
-      "Azucares": "16.7 gramos",
-      "Proteinas": "8.9 gramos",
-      "Sal": "0.71 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 4.69,
+    "precio_total": 2.1,
     "origen": "Eroski"
   },
   {
@@ -255,6 +180,81 @@
     "origen": "Eroski"
   },
   {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/23117377-cereales-petalos-de-trigo-de-chocolate-eroski-caja-500-g/",
+    "titulo": "CEREALES PÉTALOS DE TRIGO DE CHOCOLATE EROSKI, CAJA 500 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "4.4 gramos",
+      "Saturadas": "1 gramos",
+      "Hidratos de carbono": "75 gramos",
+      "Azucares": "24 gramos",
+      "Proteinas": "9.1 gramos",
+      "Sal": "0.34 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.0,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25652918-cereales-frosties-caja-400-g/",
+    "titulo": "CEREALES FROSTIES, CAJA 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.6 gramos",
+      "Saturadas": "0.1 gramos",
+      "Hidratos de carbono": "87 gramos",
+      "Azucares": "37 gramos",
+      "Proteinas": "4.5 gramos",
+      "Sal": "0.83 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 4.35,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/348359-cereal-soluble-eko-frasco-150-g/",
+    "titulo": "CEREAL SOLUBLE EKO, FRASCO 150 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.4 gramos",
+      "Saturadas": "0.1 gramos",
+      "Hidratos de carbono": "74.4 gramos",
+      "Azucares": "5.5 gramos",
+      "Proteinas": "5.7 gramos",
+      "Sal": "0.23 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.65,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/348359-cereal-soluble-eko-frasco-150-g/?ratingsZone=true&withRating=true",
+    "titulo": "CEREAL SOLUBLE EKO, FRASCO 150 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.4 gramos",
+      "Saturadas": "0.1 gramos",
+      "Hidratos de carbono": "74.4 gramos",
+      "Azucares": "5.5 gramos",
+      "Proteinas": "5.7 gramos",
+      "Sal": "0.23 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.65,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/10873545-cereal-de-chocolate-negro-nestle-fitness-caja-375-g/",
+    "titulo": "CEREAL DE CHOCOLATE NEGRO NESTLÉ FITNESS, CAJA 375 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "8.3 gramos",
+      "Saturadas": "4.6 gramos",
+      "Hidratos de carbono": "68.5 gramos",
+      "Azucares": "16.7 gramos",
+      "Proteinas": "8.9 gramos",
+      "Sal": "0.71 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 4.69,
+    "origen": "Eroski"
+  },
+  {
     "url": "https://supermercado.eroski.es:443/es/productdetail/26153775-cereales-rellenos-de-leche-eroski-bolsa-500-g/",
     "titulo": "CEREALES RELLENOS DE LECHE EROSKI, BOLSA 500 G",
     "valores_nutricionales_100_g": {
@@ -267,6 +267,21 @@
       "Valor energetico": "0 kcal"
     },
     "precio_total": 2.4,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/350660-cereales-de-trigo-weetabix-caja-430-g/",
+    "titulo": "CEREALES DE TRIGO WEETABIX, CAJA 430 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2 gramos",
+      "Saturadas": "0.6 gramos",
+      "Hidratos de carbono": "69 gramos",
+      "Azucares": "4.2 gramos",
+      "Proteinas": "12 gramos",
+      "Sal": "0.28 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 4.05,
     "origen": "Eroski"
   },
   {
@@ -285,48 +300,18 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/27020718-cereales-kelloggs-all-bran-plus-caja-500-g/",
-    "titulo": "CEREALES KELLOGG'S ALL-BRAN PLUS, CAJA 500 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25653031-cereales-smacks-caja-400-g/",
+    "titulo": "CEREALES SMACKS, CAJA 400 G",
     "valores_nutricionales_100_g": {
-      "Grasas": "2.8 gramos",
-      "Saturadas": "0.5 gramos",
-      "Hidratos de carbono": "47 gramos",
-      "Azucares": "15 gramos",
-      "Proteinas": "12 gramos",
-      "Sal": "0.9 gramos",
+      "Grasas": "1.6 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "81 gramos",
+      "Azucares": "34 gramos",
+      "Proteinas": "7.1 gramos",
+      "Sal": "0.02 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 5.19,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/25531377-papilla-8-cereales-con-galletas-nestle-caja-475-g/",
-    "titulo": "PAPILLA 8 CEREALES CON GALLETAS NESTLÉ, CAJA 475 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "4.8 gramos",
-      "Saturadas": "1.6 gramos",
-      "Hidratos de carbono": "74.5 gramos",
-      "Azucares": "21.0 gramos",
-      "Proteinas": "12.0 gramos",
-      "Sal": "0.11 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 4.39,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/17960758-cereales-chocolate-kellogs-all-bran-caja-375-g/",
-    "titulo": "CEREALES CHOCOLATE KELLOG`S ALL-BRAN, CAJA 375 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "8 gramos",
-      "Saturadas": "4.5 gramos",
-      "Hidratos de carbono": "65 gramos",
-      "Azucares": "19 gramos",
-      "Proteinas": "10 gramos",
-      "Sal": "0.05 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 4.3,
+    "precio_total": 4.35,
     "origen": "Eroski"
   },
   {
@@ -345,18 +330,18 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/25652918-cereales-frosties-caja-400-g/",
-    "titulo": "CEREALES FROSTIES, CAJA 400 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/27020718-cereales-kelloggs-all-bran-plus-caja-500-g/",
+    "titulo": "CEREALES KELLOGG'S ALL-BRAN PLUS, CAJA 500 G",
     "valores_nutricionales_100_g": {
-      "Grasas": "0.6 gramos",
-      "Saturadas": "0.1 gramos",
-      "Hidratos de carbono": "87 gramos",
-      "Azucares": "37 gramos",
-      "Proteinas": "4.5 gramos",
-      "Sal": "0.83 gramos",
+      "Grasas": "2.8 gramos",
+      "Saturadas": "0.5 gramos",
+      "Hidratos de carbono": "47 gramos",
+      "Azucares": "15 gramos",
+      "Proteinas": "12 gramos",
+      "Sal": "0.9 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 4.35,
+    "precio_total": 5.19,
     "origen": "Eroski"
   },
   {
@@ -495,6 +480,21 @@
     "origen": "Eroski"
   },
   {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/26084368-leche-semidesnatada-bomilk-brik-1-litro/",
+    "titulo": "LECHE SEMIDESNATADA BOMILK, BRIK 1 LITRO",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "vinagres especiales",
+      "Valor energetico": "0 kcal"
+    },
+    "precio_total": 0.88,
+    "origen": "Eroski"
+  },
+  {
     "url": "https://supermercado.eroski.es:443/es/productdetail/735399-leche-semidesnatada-asturiana-brik-1-litro/",
     "titulo": "LECHE SEMIDESNATADA ASTURIANA, BRIK 1 LITRO",
     "valores_nutricionales_100_g": {
@@ -525,21 +525,6 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/26084368-leche-semidesnatada-bomilk-brik-1-litro/",
-    "titulo": "LECHE SEMIDESNATADA BOMILK, BRIK 1 LITRO",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0 gr",
-      "Saturadas": "0 gr",
-      "Hidratos de carbono": "0 gr",
-      "Azucares": "0 gr",
-      "Proteinas": "0 gr",
-      "Sal": "vinagres especiales",
-      "Valor energetico": "0 kcal"
-    },
-    "precio_total": 0.88,
-    "origen": "Eroski"
-  },
-  {
     "url": "https://supermercado.eroski.es:443/es/productdetail/14897060-leche-gran-creme-entera-servihostel-botella-15-litros/",
     "titulo": "LECHE GRAN CREME ENTERA SERVIHOSTEL, BOTELLA 1,5 LITROS",
     "valores_nutricionales_100_g": {
@@ -552,6 +537,21 @@
       "Valor energetico": "0 kcal"
     },
     "precio_total": 1.45,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/18672337-leche-desnatada-del-pais-vasco-eroski-brik-1-litro/",
+    "titulo": "LECHE DESNATADA DEL PAÍS VASCO EROSKI, BRIK 1 LITRO",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.2 gramos",
+      "Saturadas": "0.1 gramos",
+      "Hidratos de carbono": "4.8 gramos",
+      "Azucares": "4.8 gramos",
+      "Proteinas": "3.3 gramos",
+      "Sal": "0.13 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.09,
     "origen": "Eroski"
   },
   {
@@ -600,36 +600,6 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/16623084-leche-sin-lactosa-desnatada-eroski-brik-1-litro/",
-    "titulo": "LECHE SIN LACTOSA DESNATADA EROSKI, BRIK 1 LITRO",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.2 gramos",
-      "Saturadas": "0.1 gramos",
-      "Hidratos de carbono": "4.8 gramos",
-      "Azucares": "4.8 gramos",
-      "Proteinas": "3.3 gramos",
-      "Sal": "0.13 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 0.93,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/16623084-leche-sin-lactosa-desnatada-eroski-brik-1-litro/?ratingsZone=true&withRating=true",
-    "titulo": "LECHE SIN LACTOSA DESNATADA EROSKI, BRIK 1 LITRO",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.2 gramos",
-      "Saturadas": "0.1 gramos",
-      "Hidratos de carbono": "4.8 gramos",
-      "Azucares": "4.8 gramos",
-      "Proteinas": "3.3 gramos",
-      "Sal": "0.13 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 0.93,
-    "origen": "Eroski"
-  },
-  {
     "url": "https://supermercado.eroski.es:443/es/productdetail/735423-leche-entera-asturiana-brik-1-litro/",
     "titulo": "LECHE ENTERA ASTURIANA, BRIK 1 LITRO",
     "valores_nutricionales_100_g": {
@@ -660,6 +630,36 @@
     "origen": "Eroski"
   },
   {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/16623084-leche-sin-lactosa-desnatada-eroski-brik-1-litro/",
+    "titulo": "LECHE SIN LACTOSA DESNATADA EROSKI, BRIK 1 LITRO",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.2 gramos",
+      "Saturadas": "0.1 gramos",
+      "Hidratos de carbono": "4.8 gramos",
+      "Azucares": "4.8 gramos",
+      "Proteinas": "3.3 gramos",
+      "Sal": "0.13 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 0.93,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/16623084-leche-sin-lactosa-desnatada-eroski-brik-1-litro/?ratingsZone=true&withRating=true",
+    "titulo": "LECHE SIN LACTOSA DESNATADA EROSKI, BRIK 1 LITRO",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.2 gramos",
+      "Saturadas": "0.1 gramos",
+      "Hidratos de carbono": "4.8 gramos",
+      "Azucares": "4.8 gramos",
+      "Proteinas": "3.3 gramos",
+      "Sal": "0.13 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 0.93,
+    "origen": "Eroski"
+  },
+  {
     "url": "https://supermercado.eroski.es:443/es/productdetail/152710-leche-semidesnatada-eroski-botella-15-litros/",
     "titulo": "LECHE SEMIDESNATADA EROSKI, BOTELLA 1,5 LITROS",
     "valores_nutricionales_100_g": {
@@ -687,21 +687,6 @@
       "Valor energetico": "energía"
     },
     "precio_total": 1.5,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/212878-leche-semidesnatada-kaiku-brik-1-litro/",
-    "titulo": "LECHE SEMIDESNATADA KAIKU, BRIK 1 LITRO",
-    "valores_nutricionales_100_g": {
-      "Grasas": "1.5 gramos",
-      "Saturadas": "1 gramos",
-      "Hidratos de carbono": "4.6 gramos",
-      "Azucares": "4.6 gramos",
-      "Proteinas": "3 gramos",
-      "Sal": "0.13 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.25,
     "origen": "Eroski"
   },
   {
@@ -780,6 +765,21 @@
     "origen": "Eroski"
   },
   {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/203562-leche-entera-asturiana-botella-15-litros/?ratingsZone=true&withRating=true",
+    "titulo": "LECHE ENTERA ASTURIANA, BOTELLA 1,5 LITROS",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3.6 gramos",
+      "Saturadas": "2.4 gramos",
+      "Hidratos de carbono": "4.6 gramos",
+      "Azucares": "4.6 gramos",
+      "Proteinas": "3.1 gramos",
+      "Sal": "0.1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.89,
+    "origen": "Eroski"
+  },
+  {
     "url": "https://supermercado.eroski.es:443/es/productdetail/26084376-leche-desnatada-bomilk-brik-1-litro/",
     "titulo": "LECHE DESNATADA BOMILK, BRIK 1 LITRO",
     "valores_nutricionales_100_g": {
@@ -825,37 +825,22 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/203562-leche-entera-asturiana-botella-15-litros/",
-    "titulo": "LECHE ENTERA ASTURIANA, BOTELLA 1,5 LITROS",
-    "valores_nutricionales_100_g": {
-      "Grasas": "3.6 gramos",
-      "Saturadas": "2.4 gramos",
-      "Hidratos de carbono": "4.6 gramos",
-      "Azucares": "4.6 gramos",
-      "Proteinas": "3.1 gramos",
-      "Sal": "0.1 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.89,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/203562-leche-entera-asturiana-botella-15-litros/?ratingsZone=true&withRating=true",
-    "titulo": "LECHE ENTERA ASTURIANA, BOTELLA 1,5 LITROS",
-    "valores_nutricionales_100_g": {
-      "Grasas": "3.6 gramos",
-      "Saturadas": "2.4 gramos",
-      "Hidratos de carbono": "4.6 gramos",
-      "Azucares": "4.6 gramos",
-      "Proteinas": "3.1 gramos",
-      "Sal": "0.1 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.89,
-    "origen": "Eroski"
-  },
-  {
     "url": "https://supermercado.eroski.es:443/es/productdetail/212019-leche-desnatada-kaiku-brik-1-litro/",
+    "titulo": "LECHE DESNATADA KAIKU, BRIK 1 LITRO",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gramos",
+      "Saturadas": "0 gramos",
+      "Hidratos de carbono": "4.7 gramos",
+      "Azucares": "4.7 gramos",
+      "Proteinas": "3.1 gramos",
+      "Sal": "0.13 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.19,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/212019-leche-desnatada-kaiku-brik-1-litro/?ratingsZone=true&withRating=false",
     "titulo": "LECHE DESNATADA KAIKU, BRIK 1 LITRO",
     "valores_nutricionales_100_g": {
       "Grasas": "0 gramos",
@@ -911,7 +896,7 @@
       "Sal": "0.49 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 5.75,
+    "precio_total": 6.39,
     "origen": "Eroski"
   },
   {
@@ -926,22 +911,7 @@
       "Sal": "0.49 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 5.75,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/25563800-galleta-cuetara-tosta-rica-caja-760-g/",
-    "titulo": "GALLETA CUÉTARA TOSTA RICA, CAJA 760 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "15 gramos",
-      "Saturadas": "1.5 gramos",
-      "Hidratos de carbono": "73 gramos",
-      "Azucares": "20 gramos",
-      "Proteinas": "7.5 gramos",
-      "Sal": "0.68 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 3.85,
+    "precio_total": 6.39,
     "origen": "Eroski"
   },
   {
@@ -975,6 +945,36 @@
     "origen": "Eroski"
   },
   {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25563800-galleta-cuetara-tosta-rica-caja-760-g/",
+    "titulo": "GALLETA CUÉTARA TOSTA RICA, CAJA 760 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "15 gramos",
+      "Saturadas": "1.5 gramos",
+      "Hidratos de carbono": "73 gramos",
+      "Azucares": "20 gramos",
+      "Proteinas": "7.5 gramos",
+      "Sal": "0.68 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.85,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/2366466-galleta-con-pepitas-de-chocolate-chips-ahoy-minis-caja-160-g/",
+    "titulo": "GALLETA CON PEPITAS DE CHOCOLATE CHIPS AHOY! MINIS, CAJA 160 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "24 gramos",
+      "Saturadas": "13 gramos",
+      "Hidratos de carbono": "64 gramos",
+      "Azucares": "31 gramos",
+      "Proteinas": "5.8 gramos",
+      "Sal": "1.04 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.91,
+    "origen": "Eroski"
+  },
+  {
     "url": "https://supermercado.eroski.es:443/es/productdetail/23113509-galleta-cookies-sin-palma-eroski-paquete-225-g/",
     "titulo": "GALLETA COOKIES SIN PALMA EROSKI, PAQUETE 225 G",
     "valores_nutricionales_100_g": {
@@ -1005,141 +1005,6 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/2366466-galleta-con-pepitas-de-chocolate-chips-ahoy-minis-caja-160-g/",
-    "titulo": "GALLETA CON PEPITAS DE CHOCOLATE CHIPS AHOY! MINIS, CAJA 160 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "24 gramos",
-      "Saturadas": "13 gramos",
-      "Hidratos de carbono": "64 gramos",
-      "Azucares": "31 gramos",
-      "Proteinas": "5.8 gramos",
-      "Sal": "1.04 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.91,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/11684560-galleta-digestive-con-chocolate-eroski-paquete-300-g/",
-    "titulo": "GALLETA DIGESTIVE CON CHOCOLATE EROSKI, PAQUETE 300 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "20 gramos",
-      "Saturadas": "6 gramos",
-      "Hidratos de carbono": "63 gramos",
-      "Azucares": "26 gramos",
-      "Proteinas": "6 gramos",
-      "Sal": "1.4 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.4,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/11684560-galleta-digestive-con-chocolate-eroski-paquete-300-g/?ratingsZone=true&withRating=true",
-    "titulo": "GALLETA DIGESTIVE CON CHOCOLATE EROSKI, PAQUETE 300 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "20 gramos",
-      "Saturadas": "6 gramos",
-      "Hidratos de carbono": "63 gramos",
-      "Azucares": "26 gramos",
-      "Proteinas": "6 gramos",
-      "Sal": "1.4 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.4,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/318840-galleta-creme-tropical-gullon-caja-800-g/",
-    "titulo": "GALLETA CREME TROPICAL GULLÓN, CAJA 800 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "18 gramos",
-      "Saturadas": "2 gramos",
-      "Hidratos de carbono": "70 gramos",
-      "Azucares": "17 gramos",
-      "Proteinas": "6.5 gramos",
-      "Sal": "0.7 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 3.49,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/318840-galleta-creme-tropical-gullon-caja-800-g/?ratingsZone=true&withRating=true",
-    "titulo": "GALLETA CREME TROPICAL GULLÓN, CAJA 800 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "18 gramos",
-      "Saturadas": "2 gramos",
-      "Hidratos de carbono": "70 gramos",
-      "Azucares": "17 gramos",
-      "Proteinas": "6.5 gramos",
-      "Sal": "0.7 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 3.49,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/15168149-galleta-ahorro-chips-ahoy-caja-400-g/",
-    "titulo": "GALLETA AHORRO CHIPS AHOY!, CAJA 400 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "24 gramos",
-      "Saturadas": "12 gramos",
-      "Hidratos de carbono": "64 gramos",
-      "Azucares": "33 gramos",
-      "Proteinas": "5.5 gramos",
-      "Sal": "0.74 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 5.75,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/15945470-galleta-de-chocolate-rellena-sabor-vainilla-oreo-caja-440-g/",
-    "titulo": "GALLETA DE CHOCOLATE RELLENA SABOR VAINILLA OREO, CAJA 440 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "19 gramos",
-      "Saturadas": "5.2 gramos",
-      "Hidratos de carbono": "68 gramos",
-      "Azucares": "38 gramos",
-      "Proteinas": "5.4 gramos",
-      "Sal": "0.74 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 4.7,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/5355789-galleta-maria-eroski-basic-pack-4x200-g/",
-    "titulo": "GALLETA MARÍA EROSKI BASIC, PACK 4X200 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "10 gramos",
-      "Saturadas": "1 gramos",
-      "Hidratos de carbono": "77 gramos",
-      "Azucares": "19 gramos",
-      "Proteinas": "7.6 gramos",
-      "Sal": "0.63 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.4,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/5355789-galleta-maria-eroski-basic-pack-4x200-g/?ratingsZone=true&withRating=true",
-    "titulo": "GALLETA MARÍA EROSKI BASIC, PACK 4X200 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "10 gramos",
-      "Saturadas": "1 gramos",
-      "Hidratos de carbono": "77 gramos",
-      "Azucares": "19 gramos",
-      "Proteinas": "7.6 gramos",
-      "Sal": "0.63 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.4,
-    "origen": "Eroski"
-  },
-  {
     "url": "https://supermercado.eroski.es:443/es/productdetail/26604553-galleta-la-buena-maria-fontaneda-caja-707-g/",
     "titulo": "GALLETA LA BUENA MARÍA FONTANEDA, CAJA 707 G",
     "valores_nutricionales_100_g": {
@@ -1152,81 +1017,6 @@
       "Valor energetico": "energía"
     },
     "precio_total": 3.35,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/26382754-galleta-rellena-de-chocolate-favorita-paquete-500-g/",
-    "titulo": "GALLETA RELLENA DE CHOCOLATE FAVORITA, PAQUETE 500 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "20 gramos",
-      "Saturadas": "8.6 gramos",
-      "Hidratos de carbono": "67 gramos",
-      "Azucares": "31 gramos",
-      "Proteinas": "5.9 gramos",
-      "Sal": "0.45 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.3,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/24588105-choco-flakes-cuetara-caja-520-g/",
-    "titulo": "CHOCO FLAKES CUÉTARA, CAJA 520 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "14 gramos",
-      "Saturadas": "7.1 gramos",
-      "Hidratos de carbono": "73 gramos",
-      "Azucares": "26 gramos",
-      "Proteinas": "6.3 gramos",
-      "Sal": "0.53 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 3.89,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/25597576-galletas-dinos-chocolate-con-leche-artiach-caja-255-g/",
-    "titulo": "GALLETAS DINOS CHOCOLATE CON LECHE ARTIACH, CAJA 255 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "22 gramos",
-      "Saturadas": "6.1 gramos",
-      "Hidratos de carbono": "67 gramos",
-      "Azucares": "29 gramos",
-      "Proteinas": "5.5 gramos",
-      "Sal": "0.93 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 3.55,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/1663566-galleta-relieve-eroski-caja-700-g/",
-    "titulo": "GALLETA RELIEVE EROSKI, CAJA 700 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "18 gramos",
-      "Saturadas": "2.5 gramos",
-      "Hidratos de carbono": "69 gramos",
-      "Azucares": "20 gramos",
-      "Proteinas": "6 gramos",
-      "Sal": "0.4 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.52,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/1663566-galleta-relieve-eroski-caja-700-g/?ratingsZone=true&withRating=true",
-    "titulo": "GALLETA RELIEVE EROSKI, CAJA 700 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "18 gramos",
-      "Saturadas": "2.5 gramos",
-      "Hidratos de carbono": "69 gramos",
-      "Azucares": "20 gramos",
-      "Proteinas": "6 gramos",
-      "Sal": "0.4 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.52,
     "origen": "Eroski"
   },
   {
@@ -1260,48 +1050,138 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/25563784-galleta-cuetara-tostarica-oceanix-paquete-400-g/",
-    "titulo": "GALLETA CUÉTARA TOSTARICA OCEANIX, PAQUETE 400 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/15168149-galleta-ahorro-chips-ahoy-caja-400-g/",
+    "titulo": "GALLETA AHORRO CHIPS AHOY!, CAJA 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "24 gramos",
+      "Saturadas": "12 gramos",
+      "Hidratos de carbono": "64 gramos",
+      "Azucares": "33 gramos",
+      "Proteinas": "5.5 gramos",
+      "Sal": "0.74 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 5.75,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/318840-galleta-creme-tropical-gullon-caja-800-g/",
+    "titulo": "GALLETA CREME TROPICAL GULLÓN, CAJA 800 G",
     "valores_nutricionales_100_g": {
       "Grasas": "18 gramos",
-      "Saturadas": "2.5 gramos",
+      "Saturadas": "2 gramos",
+      "Hidratos de carbono": "70 gramos",
+      "Azucares": "17 gramos",
+      "Proteinas": "6.5 gramos",
+      "Sal": "0.7 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.49,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/318840-galleta-creme-tropical-gullon-caja-800-g/?ratingsZone=true&withRating=true",
+    "titulo": "GALLETA CREME TROPICAL GULLÓN, CAJA 800 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "18 gramos",
+      "Saturadas": "2 gramos",
+      "Hidratos de carbono": "70 gramos",
+      "Azucares": "17 gramos",
+      "Proteinas": "6.5 gramos",
+      "Sal": "0.7 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.49,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/11684560-galleta-digestive-con-chocolate-eroski-paquete-300-g/",
+    "titulo": "GALLETA DIGESTIVE CON CHOCOLATE EROSKI, PAQUETE 300 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "20 gramos",
+      "Saturadas": "6 gramos",
+      "Hidratos de carbono": "63 gramos",
+      "Azucares": "26 gramos",
+      "Proteinas": "6 gramos",
+      "Sal": "1.4 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.4,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/11684560-galleta-digestive-con-chocolate-eroski-paquete-300-g/?ratingsZone=true&withRating=true",
+    "titulo": "GALLETA DIGESTIVE CON CHOCOLATE EROSKI, PAQUETE 300 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "20 gramos",
+      "Saturadas": "6 gramos",
+      "Hidratos de carbono": "63 gramos",
+      "Azucares": "26 gramos",
+      "Proteinas": "6 gramos",
+      "Sal": "1.4 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.4,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/24588105-choco-flakes-cuetara-caja-520-g/",
+    "titulo": "CHOCO FLAKES CUÉTARA, CAJA 520 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "14 gramos",
+      "Saturadas": "7.1 gramos",
+      "Hidratos de carbono": "73 gramos",
+      "Azucares": "26 gramos",
+      "Proteinas": "6.3 gramos",
+      "Sal": "0.53 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.89,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/5355789-galleta-maria-eroski-basic-pack-4x200-g/?ratingsZone=true&withRating=true",
+    "titulo": "GALLETA MARÍA EROSKI BASIC, PACK 4X200 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "10 gramos",
+      "Saturadas": "1 gramos",
+      "Hidratos de carbono": "77 gramos",
+      "Azucares": "19 gramos",
+      "Proteinas": "7.6 gramos",
+      "Sal": "0.63 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.4,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/26382754-galleta-rellena-de-chocolate-favorita-paquete-500-g/",
+    "titulo": "GALLETA RELLENA DE CHOCOLATE FAVORITA, PAQUETE 500 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "20 gramos",
+      "Saturadas": "8.6 gramos",
+      "Hidratos de carbono": "67 gramos",
+      "Azucares": "31 gramos",
+      "Proteinas": "5.9 gramos",
+      "Sal": "0.45 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.3,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/15945470-galleta-de-chocolate-rellena-sabor-vainilla-oreo-caja-440-g/",
+    "titulo": "GALLETA DE CHOCOLATE RELLENA SABOR VAINILLA OREO, CAJA 440 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "19 gramos",
+      "Saturadas": "5.2 gramos",
       "Hidratos de carbono": "68 gramos",
-      "Azucares": "23 gramos",
-      "Proteinas": "7 gramos",
-      "Sal": "0.5 gramos",
+      "Azucares": "38 gramos",
+      "Proteinas": "5.4 gramos",
+      "Sal": "0.74 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 3.99,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/16863250-galleta-rellena-de-chocolate-principe-paquete-300-g/",
-    "titulo": "GALLETA RELLENA DE CHOCOLATE PRÍNCIPE, PAQUETE 300 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "17 gramos",
-      "Saturadas": "5.6 gramos",
-      "Hidratos de carbono": "71 gramos",
-      "Azucares": "32 gramos",
-      "Proteinas": "6.2 gramos",
-      "Sal": "0.49 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 2.19,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/16863250-galleta-rellena-de-chocolate-principe-paquete-300-g/?ratingsZone=true&withRating=true",
-    "titulo": "GALLETA RELLENA DE CHOCOLATE PRÍNCIPE, PAQUETE 300 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "17 gramos",
-      "Saturadas": "5.6 gramos",
-      "Hidratos de carbono": "71 gramos",
-      "Azucares": "32 gramos",
-      "Proteinas": "6.2 gramos",
-      "Sal": "0.49 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 2.19,
+    "precio_total": 4.7,
     "origen": "Eroski"
   },
   {
@@ -1335,6 +1215,96 @@
     "origen": "Eroski"
   },
   {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/1663566-galleta-relieve-eroski-caja-700-g/",
+    "titulo": "GALLETA RELIEVE EROSKI, CAJA 700 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "18 gramos",
+      "Saturadas": "2.5 gramos",
+      "Hidratos de carbono": "69 gramos",
+      "Azucares": "20 gramos",
+      "Proteinas": "6 gramos",
+      "Sal": "0.4 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.52,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/1663566-galleta-relieve-eroski-caja-700-g/?ratingsZone=true&withRating=true",
+    "titulo": "GALLETA RELIEVE EROSKI, CAJA 700 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "18 gramos",
+      "Saturadas": "2.5 gramos",
+      "Hidratos de carbono": "69 gramos",
+      "Azucares": "20 gramos",
+      "Proteinas": "6 gramos",
+      "Sal": "0.4 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.52,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25563784-galleta-cuetara-tostarica-oceanix-paquete-400-g/",
+    "titulo": "GALLETA CUÉTARA TOSTARICA OCEANIX, PAQUETE 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "18 gramos",
+      "Saturadas": "2.5 gramos",
+      "Hidratos de carbono": "68 gramos",
+      "Azucares": "23 gramos",
+      "Proteinas": "7 gramos",
+      "Sal": "0.5 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.99,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25597576-galletas-dinos-chocolate-con-leche-artiach-caja-255-g/",
+    "titulo": "GALLETAS DINOS CHOCOLATE CON LECHE ARTIACH, CAJA 255 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "22 gramos",
+      "Saturadas": "6.1 gramos",
+      "Hidratos de carbono": "67 gramos",
+      "Azucares": "29 gramos",
+      "Proteinas": "5.5 gramos",
+      "Sal": "0.93 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.55,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/5848049-galleta-digestive-eroski-paquete-800-g/",
+    "titulo": "GALLETA DIGESTIVE EROSKI, PAQUETE 800 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "17 gramos",
+      "Saturadas": "2 gramos",
+      "Hidratos de carbono": "70 gramos",
+      "Azucares": "17 gramos",
+      "Proteinas": "6 gramos",
+      "Sal": "1.6 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.6,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/5848049-galleta-digestive-eroski-paquete-800-g/?ratingsZone=true&withRating=true",
+    "titulo": "GALLETA DIGESTIVE EROSKI, PAQUETE 800 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "17 gramos",
+      "Saturadas": "2 gramos",
+      "Hidratos de carbono": "70 gramos",
+      "Azucares": "17 gramos",
+      "Proteinas": "6 gramos",
+      "Sal": "1.6 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.6,
+    "origen": "Eroski"
+  },
+  {
     "url": "https://supermercado.eroski.es:443/es/productdetail/349183-macarrones-eroski-basic-paquete-1-kg/",
     "titulo": "MACARRONES EROSKI BASIC, PAQUETE 1 KG",
     "valores_nutricionales_100_g": {
@@ -1365,18 +1335,18 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/24257826-masa-de-hojaldre-eroski-paquete-275-g/",
-    "titulo": "MASA DE HOJALDRE EROSKI, PAQUETE 275 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/26171926-masa-de-pizza-finissima-maxi-buitoni-caja-350-g/",
+    "titulo": "MASA DE PIZZA FINISSIMA MAXI BUITONI, CAJA 350 G",
     "valores_nutricionales_100_g": {
-      "Grasas": "24 gramos",
-      "Saturadas": "13 gramos",
-      "Hidratos de carbono": "37 gramos",
-      "Azucares": "2.4 gramos",
-      "Proteinas": "6.5 gramos",
-      "Sal": "0.7 gramos",
+      "Grasas": "5.5 gramos",
+      "Saturadas": "0.4 gramos",
+      "Hidratos de carbono": "46.3 gramos",
+      "Azucares": "2 gramos",
+      "Proteinas": "8.6 gramos",
+      "Sal": "1.5 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 1.59,
+    "precio_total": 2.99,
     "origen": "Eroski"
   },
   {
@@ -1410,30 +1380,30 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/26171926-masa-de-pizza-finissima-maxi-buitoni-caja-350-g/",
-    "titulo": "MASA DE PIZZA FINISSIMA MAXI BUITONI, CAJA 350 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/24257826-masa-de-hojaldre-eroski-paquete-275-g/",
+    "titulo": "MASA DE HOJALDRE EROSKI, PAQUETE 275 G",
     "valores_nutricionales_100_g": {
-      "Grasas": "5.5 gramos",
-      "Saturadas": "0.4 gramos",
-      "Hidratos de carbono": "46.3 gramos",
-      "Azucares": "2 gramos",
-      "Proteinas": "8.6 gramos",
-      "Sal": "1.5 gramos",
+      "Grasas": "24 gramos",
+      "Saturadas": "13 gramos",
+      "Hidratos de carbono": "37 gramos",
+      "Azucares": "2.4 gramos",
+      "Proteinas": "6.5 gramos",
+      "Sal": "0.7 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 2.99,
+    "precio_total": 1.59,
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/26171918-masa-pizza-finissima-rectangular-buitoni-caja-260-g/",
-    "titulo": "MASA PIZZA FINISSIMA RECTANGULAR BUITONI, CAJA 260 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/27016062-spaghetti-n-3-gallo-paquete-1-kg/",
+    "titulo": "SPAGHETTI Nº 3 GALLO, PAQUETE 1 KG",
     "valores_nutricionales_100_g": {
-      "Grasas": "5.5 gramos",
-      "Saturadas": "0.4 gramos",
-      "Hidratos de carbono": "46.3 gramos",
-      "Azucares": "2 gramos",
-      "Proteinas": "8.6 gramos",
-      "Sal": "1.5 gramos",
+      "Grasas": "2 gramos",
+      "Saturadas": "0.5 gramos",
+      "Hidratos de carbono": "68 gramos",
+      "Azucares": "3.5 gramos",
+      "Proteinas": "12 gramos",
+      "Sal": "0.03 gramos",
       "Valor energetico": "energía"
     },
     "precio_total": 1.99,
@@ -1485,6 +1455,21 @@
     "origen": "Eroski"
   },
   {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/70540-tiburon-eroski-paquete-500-g/",
+    "titulo": "TIBURÓN EROSKI, PAQUETE 500 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1.2 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "72 gramos",
+      "Azucares": "3 gramos",
+      "Proteinas": "11 gramos",
+      "Sal": "0.02 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 0.8,
+    "origen": "Eroski"
+  },
+  {
     "url": "https://supermercado.eroski.es:443/es/productdetail/19856053-masa-pizza-xxl-eroski-paquete-550-g/",
     "titulo": "MASA PIZZA XXL EROSKI, PAQUETE 550 G",
     "valores_nutricionales_100_g": {
@@ -1512,51 +1497,6 @@
       "Valor energetico": "energía"
     },
     "precio_total": 2.39,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/14152938-pasta-elicoidale-garofalo-paquete-500-g/",
-    "titulo": "PASTA ELICOIDALE GAROFALO, PAQUETE 500 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "1 gramos",
-      "Saturadas": "0.2 gramos",
-      "Hidratos de carbono": "70 gramos",
-      "Azucares": "3 gramos",
-      "Proteinas": "14 gramos",
-      "Sal": "0.01 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.74,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/27016062-spaghetti-n-3-gallo-paquete-1-kg/",
-    "titulo": "SPAGHETTI Nº 3 GALLO, PAQUETE 1 KG",
-    "valores_nutricionales_100_g": {
-      "Grasas": "2 gramos",
-      "Saturadas": "0.5 gramos",
-      "Hidratos de carbono": "68 gramos",
-      "Azucares": "3.5 gramos",
-      "Proteinas": "12 gramos",
-      "Sal": "0.03 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.99,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/70540-tiburon-eroski-paquete-500-g/",
-    "titulo": "TIBURÓN EROSKI, PAQUETE 500 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "1.2 gramos",
-      "Saturadas": "0.3 gramos",
-      "Hidratos de carbono": "72 gramos",
-      "Azucares": "3 gramos",
-      "Proteinas": "11 gramos",
-      "Sal": "0.02 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 0.8,
     "origen": "Eroski"
   },
   {
@@ -1605,8 +1545,8 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/26675389-spaghetti-n3-gallo-paquete-400-g/",
-    "titulo": "SPAGHETTI N.3 GALLO, PAQUETE 400 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/26675371-macarron-pluma-n6-gallo-paquete-400-g/",
+    "titulo": "MACARRÓN PLUMA N.6 GALLO, PAQUETE 400 G",
     "valores_nutricionales_100_g": {
       "Grasas": "2 gramos",
       "Saturadas": "0.5 gramos",
@@ -1620,8 +1560,8 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/26675371-macarron-pluma-n6-gallo-paquete-400-g/",
-    "titulo": "MACARRÓN PLUMA N.6 GALLO, PAQUETE 400 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/26675389-spaghetti-n3-gallo-paquete-400-g/",
+    "titulo": "SPAGHETTI N.3 GALLO, PAQUETE 400 G",
     "valores_nutricionales_100_g": {
       "Grasas": "2 gramos",
       "Saturadas": "0.5 gramos",
@@ -1665,48 +1605,108 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/17561747-spaguetti-garofalo-paquete-500-g/",
-    "titulo": "SPAGUETTI GAROFALO, PAQUETE 500 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/26171918-masa-pizza-finissima-rectangular-buitoni-caja-260-g/",
+    "titulo": "MASA PIZZA FINISSIMA RECTANGULAR BUITONI, CAJA 260 G",
     "valores_nutricionales_100_g": {
-      "Grasas": "1 gramos",
-      "Saturadas": "0.2 gramos",
-      "Hidratos de carbono": "70 gramos",
-      "Azucares": "3 gramos",
-      "Proteinas": "14 gramos",
-      "Sal": "0.01 gramos",
+      "Grasas": "5.5 gramos",
+      "Saturadas": "0.4 gramos",
+      "Hidratos de carbono": "46.3 gramos",
+      "Azucares": "2 gramos",
+      "Proteinas": "8.6 gramos",
+      "Sal": "1.5 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 1.74,
+    "precio_total": 1.99,
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/14152946-pasta-radiatori-garofalo-paquete-500-g/",
-    "titulo": "PASTA RADIATORI GAROFALO, PAQUETE 500 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/24300758-plumas-integrales-bio-eroski-bioeco-paquete-500-g/",
+    "titulo": "PLUMAS INTEGRALES BIO EROSKI BIO/ECO, PAQUETE 500 G",
     "valores_nutricionales_100_g": {
-      "Grasas": "1 gramos",
-      "Saturadas": "0.2 gramos",
-      "Hidratos de carbono": "70 gramos",
-      "Azucares": "3 gramos",
-      "Proteinas": "14 gramos",
-      "Sal": "0.01 gramos",
+      "Grasas": "2 gramos",
+      "Saturadas": "0.5 gramos",
+      "Hidratos de carbono": "62 gramos",
+      "Azucares": "4 gramos",
+      "Proteinas": "12 gramos",
+      "Sal": "0.03 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 1.74,
+    "precio_total": 1.45,
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/14152946-pasta-radiatori-garofalo-paquete-500-g/?ratingsZone=true&withRating=true",
-    "titulo": "PASTA RADIATORI GAROFALO, PAQUETE 500 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/70565-spaguetti-eroski-basic-paquete-1-kg/",
+    "titulo": "SPAGUETTI EROSKI BASIC, PAQUETE 1 KG",
     "valores_nutricionales_100_g": {
-      "Grasas": "1 gramos",
-      "Saturadas": "0.2 gramos",
-      "Hidratos de carbono": "70 gramos",
+      "Grasas": "1.2 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "72 gramos",
       "Azucares": "3 gramos",
-      "Proteinas": "14 gramos",
-      "Sal": "0.01 gramos",
+      "Proteinas": "11 gramos",
+      "Sal": "0.02 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 1.74,
+    "precio_total": 1.2,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/70565-spaguetti-eroski-basic-paquete-1-kg/?ratingsZone=true&withRating=true",
+    "titulo": "SPAGUETTI EROSKI BASIC, PAQUETE 1 KG",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1.2 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "72 gramos",
+      "Azucares": "3 gramos",
+      "Proteinas": "11 gramos",
+      "Sal": "0.02 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.2,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/14895262-gnocchi-de-patata-garofalo-paquete-500-g/",
+    "titulo": "GNOCCHI DE PATATA GAROFALO, PAQUETE 500 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1 gramos",
+      "Saturadas": "0.1 gramos",
+      "Hidratos de carbono": "39 gramos",
+      "Azucares": "1 gramos",
+      "Proteinas": "4.7 gramos",
+      "Sal": "0.5 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.05,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/9558529-farfalle-con-vegetales-eroski-paquete-500-g/",
+    "titulo": "FARFALLE CON VEGETALES EROSKI, PAQUETE 500 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1.5 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "72 gramos",
+      "Azucares": "3 gramos",
+      "Proteinas": "11 gramos",
+      "Sal": "0.03 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.1,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/9558529-farfalle-con-vegetales-eroski-paquete-500-g/?ratingsZone=true&withRating=true",
+    "titulo": "FARFALLE CON VEGETALES EROSKI, PAQUETE 500 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1.5 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "72 gramos",
+      "Azucares": "3 gramos",
+      "Proteinas": "11 gramos",
+      "Sal": "0.03 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.1,
     "origen": "Eroski"
   },
   {
@@ -1737,36 +1737,6 @@
       "Valor energetico": "energía"
     },
     "precio_total": 0.8,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/220913-oblea-para-empanadilla-buitoni-paquete-280-g/",
-    "titulo": "OBLEA PARA EMPANADILLA BUITONI, PAQUETE 280 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "13.2 gramos",
-      "Saturadas": "4.9 gramos",
-      "Hidratos de carbono": "48.1 gramos",
-      "Azucares": "0.5 gramos",
-      "Proteinas": "6.8 gramos",
-      "Sal": "1.8 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.81,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/220913-oblea-para-empanadilla-buitoni-paquete-280-g/?ratingsZone=true&withRating=true",
-    "titulo": "OBLEA PARA EMPANADILLA BUITONI, PAQUETE 280 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "13.2 gramos",
-      "Saturadas": "4.9 gramos",
-      "Hidratos de carbono": "48.1 gramos",
-      "Azucares": "0.5 gramos",
-      "Proteinas": "6.8 gramos",
-      "Sal": "1.8 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.81,
     "origen": "Eroski"
   },
   {
@@ -1830,21 +1800,6 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/20244729-yogur-griego-natural-oikos-pack-4x110-g/",
-    "titulo": "YOGUR GRIEGO NATURAL OIKOS, PACK 4X110 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "10 gramos",
-      "Saturadas": "6.3 gramos",
-      "Hidratos de carbono": "4.1 gramos",
-      "Azucares": "4.1 gramos",
-      "Proteinas": "3.2 gramos",
-      "Sal": "0.1 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 2.99,
-    "origen": "Eroski"
-  },
-  {
     "url": "https://supermercado.eroski.es:443/es/productdetail/8409344-bifidus-natural-activia-pack-8x120-g/",
     "titulo": "BÍFIDUS NATURAL ACTIVIA, PACK 8X120 G",
     "valores_nutricionales_100_g": {
@@ -1902,6 +1857,21 @@
       "Valor energetico": "energía"
     },
     "precio_total": 1.48,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/20244729-yogur-griego-natural-oikos-pack-4x110-g/",
+    "titulo": "YOGUR GRIEGO NATURAL OIKOS, PACK 4X110 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "10 gramos",
+      "Saturadas": "6.3 gramos",
+      "Hidratos de carbono": "4.1 gramos",
+      "Azucares": "4.1 gramos",
+      "Proteinas": "3.2 gramos",
+      "Sal": "0.1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.99,
     "origen": "Eroski"
   },
   {
@@ -1995,33 +1965,33 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/20244737-yogur-griego-natural-azucarado-oikos-pack-4x110-g/",
-    "titulo": "YOGUR GRIEGO NATURAL AZUCARADO OIKOS, PACK 4X110 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/16819138-bifidus-cremoso-sabor-lima-limon-activia-pack-4x115-g/",
+    "titulo": "BÍFIDUS CREMOSO SABOR LIMA-LIMÓN ACTIVIA, PACK 4X115 G",
     "valores_nutricionales_100_g": {
-      "Grasas": "10 gramos",
-      "Saturadas": "6.3 gramos",
-      "Hidratos de carbono": "10.6 gramos",
-      "Azucares": "10.6 gramos",
-      "Proteinas": "3.2 gramos",
-      "Sal": "0.1 gramos",
+      "Grasas": "3.4 gramos",
+      "Saturadas": "2.1 gramos",
+      "Hidratos de carbono": "13.7 gramos",
+      "Azucares": "13.2 gramos",
+      "Proteinas": "3.7 gramos",
+      "Sal": "0.2 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 2.99,
+    "precio_total": 2.69,
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/20244737-yogur-griego-natural-azucarado-oikos-pack-4x110-g/?ratingsZone=true&withRating=true",
-    "titulo": "YOGUR GRIEGO NATURAL AZUCARADO OIKOS, PACK 4X110 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/16819138-bifidus-cremoso-sabor-lima-limon-activia-pack-4x115-g/?ratingsZone=true&withRating=true",
+    "titulo": "BÍFIDUS CREMOSO SABOR LIMA-LIMÓN ACTIVIA, PACK 4X115 G",
     "valores_nutricionales_100_g": {
-      "Grasas": "10 gramos",
-      "Saturadas": "6.3 gramos",
-      "Hidratos de carbono": "10.6 gramos",
-      "Azucares": "10.6 gramos",
-      "Proteinas": "3.2 gramos",
-      "Sal": "0.1 gramos",
+      "Grasas": "3.4 gramos",
+      "Saturadas": "2.1 gramos",
+      "Hidratos de carbono": "13.7 gramos",
+      "Azucares": "13.2 gramos",
+      "Proteinas": "3.7 gramos",
+      "Sal": "0.2 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 2.99,
+    "precio_total": 2.69,
     "origen": "Eroski"
   },
   {
@@ -2055,48 +2025,63 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/25474156-yogur-griego-natural-danone-pack-4x110-g/",
-    "titulo": "YOGUR GRIEGO NATURAL DANONE, PACK 4X110 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/20244737-yogur-griego-natural-azucarado-oikos-pack-4x110-g/",
+    "titulo": "YOGUR GRIEGO NATURAL AZUCARADO OIKOS, PACK 4X110 G",
     "valores_nutricionales_100_g": {
-      "Grasas": "7 gramos",
-      "Saturadas": "4.6 gramos",
-      "Hidratos de carbono": "4.6 gramos",
-      "Azucares": "4.6 gramos",
-      "Proteinas": "3.6 gramos",
-      "Sal": "0.08 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.49,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/25474156-yogur-griego-natural-danone-pack-4x110-g/?ratingsZone=true&withRating=true",
-    "titulo": "YOGUR GRIEGO NATURAL DANONE, PACK 4X110 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "7 gramos",
-      "Saturadas": "4.6 gramos",
-      "Hidratos de carbono": "4.6 gramos",
-      "Azucares": "4.6 gramos",
-      "Proteinas": "3.6 gramos",
-      "Sal": "0.08 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.49,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/23180706-yogur-griego-de-straciatella-oikos-pack-4x110-g/",
-    "titulo": "YOGUR GRIEGO DE STRACIATELLA OIKOS, PACK 4X110 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "9.6 gramos",
-      "Saturadas": "6.4 gramos",
-      "Hidratos de carbono": "18.1 gramos",
-      "Azucares": "17.8 gramos",
-      "Proteinas": "2.8 gramos",
+      "Grasas": "10 gramos",
+      "Saturadas": "6.3 gramos",
+      "Hidratos de carbono": "10.6 gramos",
+      "Azucares": "10.6 gramos",
+      "Proteinas": "3.2 gramos",
       "Sal": "0.1 gramos",
       "Valor energetico": "energía"
     },
     "precio_total": 2.99,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/20244737-yogur-griego-natural-azucarado-oikos-pack-4x110-g/?ratingsZone=true&withRating=true",
+    "titulo": "YOGUR GRIEGO NATURAL AZUCARADO OIKOS, PACK 4X110 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "10 gramos",
+      "Saturadas": "6.3 gramos",
+      "Hidratos de carbono": "10.6 gramos",
+      "Azucares": "10.6 gramos",
+      "Proteinas": "3.2 gramos",
+      "Sal": "0.1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.99,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/24007627-yogur-de-coco-natural-alpro-tarrina-350-g/",
+    "titulo": "YOGUR DE COCO NATURAL ALPRO, TARRINA 350 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "6.1 gramos",
+      "Saturadas": "5.7 gramos",
+      "Hidratos de carbono": "6 gramos",
+      "Azucares": "0.6 gramos",
+      "Proteinas": "0.6 gramos",
+      "Sal": "0.07 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.59,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/24007627-yogur-de-coco-natural-alpro-tarrina-350-g/?ratingsZone=true&withRating=true",
+    "titulo": "YOGUR DE COCO NATURAL ALPRO, TARRINA 350 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "6.1 gramos",
+      "Saturadas": "5.7 gramos",
+      "Hidratos de carbono": "6 gramos",
+      "Azucares": "0.6 gramos",
+      "Proteinas": "0.6 gramos",
+      "Sal": "0.07 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.59,
     "origen": "Eroski"
   },
   {
@@ -2160,63 +2145,33 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/24007627-yogur-de-coco-natural-alpro-tarrina-350-g/",
-    "titulo": "YOGUR DE COCO NATURAL ALPRO, TARRINA 350 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25474156-yogur-griego-natural-danone-pack-4x110-g/",
+    "titulo": "YOGUR GRIEGO NATURAL DANONE, PACK 4X110 G",
     "valores_nutricionales_100_g": {
-      "Grasas": "6.1 gramos",
-      "Saturadas": "5.7 gramos",
-      "Hidratos de carbono": "6 gramos",
-      "Azucares": "0.6 gramos",
-      "Proteinas": "0.6 gramos",
-      "Sal": "0.07 gramos",
+      "Grasas": "7 gramos",
+      "Saturadas": "4.6 gramos",
+      "Hidratos de carbono": "4.6 gramos",
+      "Azucares": "4.6 gramos",
+      "Proteinas": "3.6 gramos",
+      "Sal": "0.08 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 2.59,
+    "precio_total": 1.49,
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/24007627-yogur-de-coco-natural-alpro-tarrina-350-g/?ratingsZone=true&withRating=true",
-    "titulo": "YOGUR DE COCO NATURAL ALPRO, TARRINA 350 G",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25474156-yogur-griego-natural-danone-pack-4x110-g/?ratingsZone=true&withRating=true",
+    "titulo": "YOGUR GRIEGO NATURAL DANONE, PACK 4X110 G",
     "valores_nutricionales_100_g": {
-      "Grasas": "6.1 gramos",
-      "Saturadas": "5.7 gramos",
-      "Hidratos de carbono": "6 gramos",
-      "Azucares": "0.6 gramos",
-      "Proteinas": "0.6 gramos",
-      "Sal": "0.07 gramos",
+      "Grasas": "7 gramos",
+      "Saturadas": "4.6 gramos",
+      "Hidratos de carbono": "4.6 gramos",
+      "Azucares": "4.6 gramos",
+      "Proteinas": "3.6 gramos",
+      "Sal": "0.08 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 2.59,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/16819138-bifidus-cremoso-sabor-lima-limon-activia-pack-4x115-g/",
-    "titulo": "BÍFIDUS CREMOSO SABOR LIMA-LIMÓN ACTIVIA, PACK 4X115 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "3.4 gramos",
-      "Saturadas": "2.1 gramos",
-      "Hidratos de carbono": "13.7 gramos",
-      "Azucares": "13.2 gramos",
-      "Proteinas": "3.7 gramos",
-      "Sal": "0.2 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 2.69,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/16819138-bifidus-cremoso-sabor-lima-limon-activia-pack-4x115-g/?ratingsZone=true&withRating=true",
-    "titulo": "BÍFIDUS CREMOSO SABOR LIMA-LIMÓN ACTIVIA, PACK 4X115 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "3.4 gramos",
-      "Saturadas": "2.1 gramos",
-      "Hidratos de carbono": "13.7 gramos",
-      "Azucares": "13.2 gramos",
-      "Proteinas": "3.7 gramos",
-      "Sal": "0.2 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 2.69,
+    "precio_total": 1.49,
     "origen": "Eroski"
   },
   {
@@ -2232,21 +2187,6 @@
       "Valor energetico": "energía"
     },
     "precio_total": 1.55,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/18656116-activia-de-avena-nueces-danone-pack-4x115-g/",
-    "titulo": "ACTIVIA DE AVENA-NUECES DANONE, PACK 4X115 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "3.9 gramos",
-      "Saturadas": "2 gramos",
-      "Hidratos de carbono": "14.5 gramos",
-      "Azucares": "13.3 gramos",
-      "Proteinas": "3.8 gramos",
-      "Sal": "0.13 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 2.89,
     "origen": "Eroski"
   },
   {
@@ -2292,6 +2232,36 @@
       "Valor energetico": "0 kcal"
     },
     "precio_total": 1.7,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25954843-yogur-griego-light-2-eroski-tarrina-1-kg/",
+    "titulo": "YOGUR GRIEGO LIGHT 2% EROSKI, TARRINA 1 KG",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "vinagres especiales",
+      "Valor energetico": "0 kcal"
+    },
+    "precio_total": 2.3,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/204420-yogur-sabor-a-fresa-danone-pack-4x120-g/",
+    "titulo": "YOGUR SABOR A FRESA DANONE, PACK 4X120 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.2 gramos",
+      "Saturadas": "1.5 gramos",
+      "Hidratos de carbono": "10 gramos",
+      "Azucares": "10 gramos",
+      "Proteinas": "3 gramos",
+      "Sal": "0.11 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.0,
     "origen": "Eroski"
   },
   {
@@ -2355,36 +2325,6 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/4374252-arroz-dovalencia-eroski-paquete-1-kg/",
-    "titulo": "ARROZ D.O.VALENCIA EROSKI, PAQUETE 1 KG",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.9 gramos",
-      "Saturadas": "0.2 gramos",
-      "Hidratos de carbono": "86 gramos",
-      "Azucares": "0 gramos",
-      "Proteinas": "7 gramos",
-      "Sal": "0.02 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.79,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/4374252-arroz-dovalencia-eroski-paquete-1-kg/?ratingsZone=true&withRating=true",
-    "titulo": "ARROZ D.O.VALENCIA EROSKI, PAQUETE 1 KG",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.9 gramos",
-      "Saturadas": "0.2 gramos",
-      "Hidratos de carbono": "86 gramos",
-      "Azucares": "0 gramos",
-      "Proteinas": "7 gramos",
-      "Sal": "0.02 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.79,
-    "origen": "Eroski"
-  },
-  {
     "url": "https://supermercado.eroski.es:443/es/productdetail/11033255-arroz-bomba-la-fallera-paquete-1-kg/",
     "titulo": "ARROZ BOMBA LA FALLERA, PAQUETE 1 KG",
     "valores_nutricionales_100_g": {
@@ -2442,6 +2382,36 @@
       "Valor energetico": "energía"
     },
     "precio_total": 1.3,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/4374252-arroz-dovalencia-eroski-paquete-1-kg/",
+    "titulo": "ARROZ D.O.VALENCIA EROSKI, PAQUETE 1 KG",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.9 gramos",
+      "Saturadas": "0.2 gramos",
+      "Hidratos de carbono": "86 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "7 gramos",
+      "Sal": "0.02 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.79,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/4374252-arroz-dovalencia-eroski-paquete-1-kg/?ratingsZone=true&withRating=true",
+    "titulo": "ARROZ D.O.VALENCIA EROSKI, PAQUETE 1 KG",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.9 gramos",
+      "Saturadas": "0.2 gramos",
+      "Hidratos de carbono": "86 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "7 gramos",
+      "Sal": "0.02 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.79,
     "origen": "Eroski"
   },
   {
@@ -2505,6 +2475,21 @@
     "origen": "Eroski"
   },
   {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/5898176-vasitos-de-arroz-basmati-brillante-pack-2x125-g/",
+    "titulo": "VASITOS DE ARROZ BASMATI BRILLANTE, PACK 2X125 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.9 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "35 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "4.1 gramos",
+      "Sal": "0.5 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.34,
+    "origen": "Eroski"
+  },
+  {
     "url": "https://supermercado.eroski.es:443/es/productdetail/319160-arroz-vaporizado-brillante-caja-1-kg/",
     "titulo": "ARROZ VAPORIZADO BRILLANTE, CAJA 1 KG",
     "valores_nutricionales_100_g": {
@@ -2532,21 +2517,6 @@
       "Valor energetico": "energía"
     },
     "precio_total": 1.98,
-    "origen": "Eroski"
-  },
-  {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/5898176-vasitos-de-arroz-basmati-brillante-pack-2x125-g/",
-    "titulo": "VASITOS DE ARROZ BASMATI BRILLANTE, PACK 2X125 G",
-    "valores_nutricionales_100_g": {
-      "Grasas": "2.9 gramos",
-      "Saturadas": "0.3 gramos",
-      "Hidratos de carbono": "35 gramos",
-      "Azucares": "0 gramos",
-      "Proteinas": "4.1 gramos",
-      "Sal": "0.5 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 1.34,
     "origen": "Eroski"
   },
   {
@@ -2715,21 +2685,6 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/13838339-arroz-bomba-sos-paquete-1-kg/",
-    "titulo": "ARROZ BOMBA SOS, PAQUETE 1 KG",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.7 gramos",
-      "Saturadas": "0.2 gramos",
-      "Hidratos de carbono": "80 gramos",
-      "Azucares": "0.1 gramos",
-      "Proteinas": "7.1 gramos",
-      "Sal": "0 gramos",
-      "Valor energetico": "energía"
-    },
-    "precio_total": 6.25,
-    "origen": "Eroski"
-  },
-  {
     "url": "https://supermercado.eroski.es:443/es/productdetail/4374153-arroz-vaporizado-eroski-paquete-1-kg/",
     "titulo": "ARROZ VAPORIZADO EROSKI, PAQUETE 1 KG",
     "valores_nutricionales_100_g": {
@@ -2745,18 +2700,18 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/19989805-arroz-especial-para-paella-sos-paquete-1-kg/",
-    "titulo": "ARROZ ESPECIAL PARA PAELLA SOS, PAQUETE 1 KG",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/13838339-arroz-bomba-sos-paquete-1-kg/",
+    "titulo": "ARROZ BOMBA SOS, PAQUETE 1 KG",
     "valores_nutricionales_100_g": {
-      "Grasas": "1.1 gramos",
-      "Saturadas": "0.3 gramos",
-      "Hidratos de carbono": "76 gramos",
+      "Grasas": "0.7 gramos",
+      "Saturadas": "0.2 gramos",
+      "Hidratos de carbono": "80 gramos",
       "Azucares": "0.1 gramos",
       "Proteinas": "7.1 gramos",
-      "Sal": "0.01 gramos",
+      "Sal": "0 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 3.79,
+    "precio_total": 6.25,
     "origen": "Eroski"
   },
   {
@@ -2790,23 +2745,23 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/20013736-huevo-campero-pais-vasco-ml-eroski-natur-carton-6-uds/",
-    "titulo": "HUEVO CAMPERO PAÍS VASCO M/L EROSKI NATUR, CARTÓN 6 UDS",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/19989805-arroz-especial-para-paella-sos-paquete-1-kg/",
+    "titulo": "ARROZ ESPECIAL PARA PAELLA SOS, PAQUETE 1 KG",
     "valores_nutricionales_100_g": {
-      "Grasas": "12 gramos",
-      "Saturadas": "3.3 gramos",
-      "Hidratos de carbono": "0.7 gramos",
-      "Azucares": "0.7 gramos",
-      "Proteinas": "13 gramos",
-      "Sal": "0.37 gramos",
+      "Grasas": "1.1 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "76 gramos",
+      "Azucares": "0.1 gramos",
+      "Proteinas": "7.1 gramos",
+      "Sal": "0.01 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 2.1,
+    "precio_total": 3.79,
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/20013736-huevo-campero-pais-vasco-ml-eroski-natur-carton-6-uds/?ratingsZone=true&withRating=true",
-    "titulo": "HUEVO CAMPERO PAÍS VASCO M/L EROSKI NATUR, CARTÓN 6 UDS",
+    "url": "https://supermercado.eroski.es:443/es/productdetail/19482108-huevo-fresco-l-suelo-eroski-carton-1-docena/",
+    "titulo": "HUEVO FRESCO L SUELO EROSKI, CARTÓN 1 DOCENA",
     "valores_nutricionales_100_g": {
       "Grasas": "12 gramos",
       "Saturadas": "3.3 gramos",
@@ -2816,7 +2771,22 @@
       "Sal": "0.37 gramos",
       "Valor energetico": "energía"
     },
-    "precio_total": 2.1,
+    "precio_total": 3.38,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/19482108-huevo-fresco-l-suelo-eroski-carton-1-docena/?ratingsZone=true&withRating=true",
+    "titulo": "HUEVO FRESCO L SUELO EROSKI, CARTÓN 1 DOCENA",
+    "valores_nutricionales_100_g": {
+      "Grasas": "12 gramos",
+      "Saturadas": "3.3 gramos",
+      "Hidratos de carbono": "0.7 gramos",
+      "Azucares": "0.7 gramos",
+      "Proteinas": "13 gramos",
+      "Sal": "0.37 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.38,
     "origen": "Eroski"
   },
   {
@@ -2877,6 +2847,36 @@
       "Valor energetico": "0 kcal"
     },
     "precio_total": 4.1,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/20013736-huevo-campero-pais-vasco-ml-eroski-natur-carton-6-uds/",
+    "titulo": "HUEVO CAMPERO PAÍS VASCO M/L EROSKI NATUR, CARTÓN 6 UDS",
+    "valores_nutricionales_100_g": {
+      "Grasas": "12 gramos",
+      "Saturadas": "3.3 gramos",
+      "Hidratos de carbono": "0.7 gramos",
+      "Azucares": "0.7 gramos",
+      "Proteinas": "13 gramos",
+      "Sal": "0.37 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.1,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/20013736-huevo-campero-pais-vasco-ml-eroski-natur-carton-6-uds/?ratingsZone=true&withRating=true",
+    "titulo": "HUEVO CAMPERO PAÍS VASCO M/L EROSKI NATUR, CARTÓN 6 UDS",
+    "valores_nutricionales_100_g": {
+      "Grasas": "12 gramos",
+      "Saturadas": "3.3 gramos",
+      "Hidratos de carbono": "0.7 gramos",
+      "Azucares": "0.7 gramos",
+      "Proteinas": "13 gramos",
+      "Sal": "0.37 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.1,
     "origen": "Eroski"
   },
   {
@@ -2985,21 +2985,6 @@
     "origen": "Eroski"
   },
   {
-    "url": "https://supermercado.eroski.es:443/es/productdetail/26253005-huevo-fresco-l-euskalovo-caja-10-docenas/",
-    "titulo": "HUEVO FRESCO L EUSKALOVO, CAJA 10 DOCENAS",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0 gr",
-      "Saturadas": "0 gr",
-      "Hidratos de carbono": "0 gr",
-      "Azucares": "0 gr",
-      "Proteinas": "0 gr",
-      "Sal": "vinagres especiales",
-      "Valor energetico": "0 kcal"
-    },
-    "precio_total": 30.69,
-    "origen": "Eroski"
-  },
-  {
     "url": "https://supermercado.eroski.es:443/es/productdetail/9690132-huevo-de-caserio-eusko-label-baserriko-euskaber-carton-6-uds/",
     "titulo": "HUEVO DE CASERÍO EUSKO LABEL BASERRIKO EUSKABER, CARTÓN 6 UDS",
     "valores_nutricionales_100_g": {
@@ -3027,6 +3012,21 @@
       "Valor energetico": "0 kcal"
     },
     "precio_total": 2.89,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/26253005-huevo-fresco-l-euskalovo-caja-10-docenas/",
+    "titulo": "HUEVO FRESCO L EUSKALOVO, CAJA 10 DOCENAS",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "vinagres especiales",
+      "Valor energetico": "0 kcal"
+    },
+    "precio_total": 30.69,
     "origen": "Eroski"
   },
   {
@@ -3147,6 +3147,1956 @@
       "Valor energetico": "0 kcal"
     },
     "precio_total": 2.57,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/539361-huevo-de-codorniz-hobea-caja-12-uds/?ratingsZone=true&withRating=true",
+    "titulo": "HUEVO DE CODORNIZ HOBEA, CAJA 12 UDS",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "vinagres especiales",
+      "Valor energetico": "0 kcal"
+    },
+    "precio_total": 2.57,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/24114365-clara-de-huevo-pasteurizada-hobea-botella-1-litro/",
+    "titulo": "CLARA DE HUEVO PASTEURIZADA HOBEA, BOTELLA 1 LITRO",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "vinagres especiales",
+      "Valor energetico": "0 kcal"
+    },
+    "precio_total": 4.35,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/24928525-queso-rallado-mozzarella-para-pizza-eroski-bolsa-200-g/",
+    "titulo": "QUESO RALLADO MOZZARELLA PARA PIZZA EROSKI, BOLSA 200 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "21 gramos",
+      "Saturadas": "14 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "25 gramos",
+      "Sal": "1.5 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.65,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/24928525-queso-rallado-mozzarella-para-pizza-eroski-bolsa-200-g/?ratingsZone=true&withRating=true",
+    "titulo": "QUESO RALLADO MOZZARELLA PARA PIZZA EROSKI, BOLSA 200 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "21 gramos",
+      "Saturadas": "14 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "25 gramos",
+      "Sal": "1.5 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.65,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/11785409-queso-gouda-eroski-lonchas-bandeja-200-g/",
+    "titulo": "QUESO GOUDA EROSKI, LONCHAS, BANDEJA 200 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "30 gramos",
+      "Saturadas": "21 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "23 gramos",
+      "Sal": "1.4 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.5,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/23843048-queso-rallado-4-quesos-eroski-bolsa-200-g/",
+    "titulo": "QUESO RALLADO 4 QUESOS EROSKI, BOLSA 200 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "27 gramos",
+      "Saturadas": "18 gramos",
+      "Hidratos de carbono": "2 gramos",
+      "Azucares": "0.1 gramos",
+      "Proteinas": "25 gramos",
+      "Sal": "1.65 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.85,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/23843048-queso-rallado-4-quesos-eroski-bolsa-200-g/?ratingsZone=true&withRating=true",
+    "titulo": "QUESO RALLADO 4 QUESOS EROSKI, BOLSA 200 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "27 gramos",
+      "Saturadas": "18 gramos",
+      "Hidratos de carbono": "2 gramos",
+      "Azucares": "0.1 gramos",
+      "Proteinas": "25 gramos",
+      "Sal": "1.65 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.85,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/5978036-queso-havarti-eroski-lonchas-bandeja-300-g/",
+    "titulo": "QUESO HAVARTI EROSKI, LONCHAS, BANDEJA 300 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "37 gramos",
+      "Saturadas": "25 gramos",
+      "Hidratos de carbono": "0.1 gramos",
+      "Azucares": "0.1 gramos",
+      "Proteinas": "19 gramos",
+      "Sal": "1.7 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.38,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/5978036-queso-havarti-eroski-lonchas-bandeja-300-g/?ratingsZone=true&withRating=true",
+    "titulo": "QUESO HAVARTI EROSKI, LONCHAS, BANDEJA 300 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "37 gramos",
+      "Saturadas": "25 gramos",
+      "Hidratos de carbono": "0.1 gramos",
+      "Azucares": "0.1 gramos",
+      "Proteinas": "19 gramos",
+      "Sal": "1.7 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.38,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/18151225-queso-edam-tierno-eroski-lonchas-bandeja-200-g/",
+    "titulo": "QUESO EDAM TIERNO EROSKI, LONCHAS, BANDEJA 200 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "24 gramos",
+      "Saturadas": "17 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "25 gramos",
+      "Sal": "2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.43,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/18151225-queso-edam-tierno-eroski-lonchas-bandeja-200-g/?ratingsZone=true&withRating=true",
+    "titulo": "QUESO EDAM TIERNO EROSKI, LONCHAS, BANDEJA 200 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "24 gramos",
+      "Saturadas": "17 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "25 gramos",
+      "Sal": "2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.43,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/14339410-queso-natural-philadelphia-tarrina-350-g/",
+    "titulo": "QUESO NATURAL PHILADELPHIA, TARRINA 350 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "25 gramos",
+      "Saturadas": "16 gramos",
+      "Hidratos de carbono": "2.8 gramos",
+      "Azucares": "2.8 gramos",
+      "Proteinas": "3.7 gramos",
+      "Sal": "1.06 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.99,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/6297485-queso-fresco-natural-burgo-de-arias-pack-6x72-g/",
+    "titulo": "QUESO FRESCO NATURAL BURGO DE ARIAS, PACK 6X72 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "14 gramos",
+      "Saturadas": "9.6 gramos",
+      "Hidratos de carbono": "3 gramos",
+      "Azucares": "3 gramos",
+      "Proteinas": "11 gramos",
+      "Sal": "0.89 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 6.16,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/6297485-queso-fresco-natural-burgo-de-arias-pack-6x72-g/?ratingsZone=true&withRating=true",
+    "titulo": "QUESO FRESCO NATURAL BURGO DE ARIAS, PACK 6X72 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "14 gramos",
+      "Saturadas": "9.6 gramos",
+      "Hidratos de carbono": "3 gramos",
+      "Azucares": "3 gramos",
+      "Proteinas": "11 gramos",
+      "Sal": "0.89 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 6.16,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/10995181-queso-mozzarella-eroski-bolsa-125-g/",
+    "titulo": "QUESO MOZZARELLA EROSKI, BOLSA 125 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "16 gramos",
+      "Saturadas": "11 gramos",
+      "Hidratos de carbono": "1.3 gramos",
+      "Azucares": "0.8 gramos",
+      "Proteinas": "17 gramos",
+      "Sal": "0.7 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.0,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/10995181-queso-mozzarella-eroski-bolsa-125-g/?ratingsZone=true&withRating=true",
+    "titulo": "QUESO MOZZARELLA EROSKI, BOLSA 125 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "16 gramos",
+      "Saturadas": "11 gramos",
+      "Hidratos de carbono": "1.3 gramos",
+      "Azucares": "0.8 gramos",
+      "Proteinas": "17 gramos",
+      "Sal": "0.7 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.0,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/22554778-queso-untar-natural-eroski-tarrina-300-g/",
+    "titulo": "QUESO UNTAR NATURAL EROSKI, TARRINA 300 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "23 gramos",
+      "Saturadas": "16 gramos",
+      "Hidratos de carbono": "3 gramos",
+      "Azucares": "3 gramos",
+      "Proteinas": "5.5 gramos",
+      "Sal": "0.65 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.45,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/22554778-queso-untar-natural-eroski-tarrina-300-g/?ratingsZone=true&withRating=true",
+    "titulo": "QUESO UNTAR NATURAL EROSKI, TARRINA 300 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "23 gramos",
+      "Saturadas": "16 gramos",
+      "Hidratos de carbono": "3 gramos",
+      "Azucares": "3 gramos",
+      "Proteinas": "5.5 gramos",
+      "Sal": "0.65 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.45,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/8524977-queso-semicurado-mezcla-g-baquero-cuna-cortada-225-g/",
+    "titulo": "QUESO SEMICURADO MEZCLA G. BAQUERO, CUÑA CORTADA 225 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "34.5 gramos",
+      "Saturadas": "23.4 gramos",
+      "Hidratos de carbono": "1.5 gramos",
+      "Azucares": "1.5 gramos",
+      "Proteinas": "25 gramos",
+      "Sal": "1.6 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 4.69,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/17690710-queso-rallado-emmental-eroski-bolsa-200-g/",
+    "titulo": "QUESO RALLADO EMMENTAL EROSKI, BOLSA 200 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "29 gramos",
+      "Saturadas": "19 gramos",
+      "Hidratos de carbono": "1.5 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "27 gramos",
+      "Sal": "0.7 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.73,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/17690710-queso-rallado-emmental-eroski-bolsa-200-g/?ratingsZone=true&withRating=true",
+    "titulo": "QUESO RALLADO EMMENTAL EROSKI, BOLSA 200 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "29 gramos",
+      "Saturadas": "19 gramos",
+      "Hidratos de carbono": "1.5 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "27 gramos",
+      "Sal": "0.7 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.73,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/22344220-queso-cottage-0-eroski-tarrina-200-g/",
+    "titulo": "QUESO COTTAGE 0% EROSKI, TARRINA 200 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gramos",
+      "Saturadas": "0 gramos",
+      "Hidratos de carbono": "4.5 gramos",
+      "Azucares": "2 gramos",
+      "Proteinas": "12 gramos",
+      "Sal": "0.6 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.35,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/22344220-queso-cottage-0-eroski-tarrina-200-g/?ratingsZone=true&withRating=true",
+    "titulo": "QUESO COTTAGE 0% EROSKI, TARRINA 200 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gramos",
+      "Saturadas": "0 gramos",
+      "Hidratos de carbono": "4.5 gramos",
+      "Azucares": "2 gramos",
+      "Proteinas": "12 gramos",
+      "Sal": "0.6 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.35,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/10201028-queso-fundido-eroski-basic-lonchas-sobre-450-g/",
+    "titulo": "QUESO FUNDIDO EROSKI BASIC, LONCHAS, SOBRE 450 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "12 gramos",
+      "Saturadas": "7.8 gramos",
+      "Hidratos de carbono": "7.5 gramos",
+      "Azucares": "5.1 gramos",
+      "Proteinas": "14 gramos",
+      "Sal": "3.3 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.91,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/10201028-queso-fundido-eroski-basic-lonchas-sobre-450-g/?ratingsZone=true&withRating=true",
+    "titulo": "QUESO FUNDIDO EROSKI BASIC, LONCHAS, SOBRE 450 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "12 gramos",
+      "Saturadas": "7.8 gramos",
+      "Hidratos de carbono": "7.5 gramos",
+      "Azucares": "5.1 gramos",
+      "Proteinas": "14 gramos",
+      "Sal": "3.3 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.91,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/9801291-queso-tierno-de-cabra-eroski-lonchas-bandeja-150-g/",
+    "titulo": "QUESO TIERNO DE CABRA EROSKI, LONCHAS, BANDEJA 150 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "30 gramos",
+      "Saturadas": "21 gramos",
+      "Hidratos de carbono": "1 gramos",
+      "Azucares": "0.5 gramos",
+      "Proteinas": "21 gramos",
+      "Sal": "1.6 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.33,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/20037180-queso-fresco-eroski-basic-pack-2x250-g/",
+    "titulo": "QUESO FRESCO EROSKI BASIC, PACK 2X250 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "14 gramos",
+      "Saturadas": "9.5 gramos",
+      "Hidratos de carbono": "3.6 gramos",
+      "Azucares": "3.6 gramos",
+      "Proteinas": "11 gramos",
+      "Sal": "0.8 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.05,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/20037180-queso-fresco-eroski-basic-pack-2x250-g/?ratingsZone=true&withRating=true",
+    "titulo": "QUESO FRESCO EROSKI BASIC, PACK 2X250 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "14 gramos",
+      "Saturadas": "9.5 gramos",
+      "Hidratos de carbono": "3.6 gramos",
+      "Azucares": "3.6 gramos",
+      "Proteinas": "11 gramos",
+      "Sal": "0.8 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.05,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/19088517-queso-natural-philadelphia-tarrina-250-g/",
+    "titulo": "QUESO NATURAL PHILADELPHIA, TARRINA 250 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "25 gramos",
+      "Saturadas": "16 gramos",
+      "Hidratos de carbono": "2.8 gramos",
+      "Azucares": "2.8 gramos",
+      "Proteinas": "3.7 gramos",
+      "Sal": "1.06 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.97,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/24536724-queso-feta-taco-eroski-bio-taco-150-g/",
+    "titulo": "QUESO FETA TACO EROSKI BIO, TACO 150 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "23 gramos",
+      "Saturadas": "15 gramos",
+      "Hidratos de carbono": "0.5 gramos",
+      "Azucares": "0.5 gramos",
+      "Proteinas": "16 gramos",
+      "Sal": "2.5 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.25,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/24536724-queso-feta-taco-eroski-bio-taco-150-g/?ratingsZone=true&withRating=true",
+    "titulo": "QUESO FETA TACO EROSKI BIO, TACO 150 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "23 gramos",
+      "Saturadas": "15 gramos",
+      "Hidratos de carbono": "0.5 gramos",
+      "Azucares": "0.5 gramos",
+      "Proteinas": "16 gramos",
+      "Sal": "2.5 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.25,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/12013207-queso-do-arzua-ulloa-ruta-xacobea-pieza-650-g/",
+    "titulo": "QUESO D.O. ARZUA ULLOA RUTA XACOBEA, PIEZA 650 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "27.3 gramos",
+      "Saturadas": "19.92 gramos",
+      "Hidratos de carbono": "1 gramos",
+      "Azucares": "0.5 gramos",
+      "Proteinas": "22.4 gramos",
+      "Sal": "1.17 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 5.45,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/26170589-queso-de-vaca-eroski-basic-lonchas-bandeja-300-g/",
+    "titulo": "QUESO DE VACA EROSKI BASIC, LONCHAS, BANDEJA 300 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "vinagres especiales",
+      "Valor energetico": "0 kcal"
+    },
+    "precio_total": 2.55,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/26170589-queso-de-vaca-eroski-basic-lonchas-bandeja-300-g/?ratingsZone=true&withRating=true",
+    "titulo": "QUESO DE VACA EROSKI BASIC, LONCHAS, BANDEJA 300 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "vinagres especiales",
+      "Valor energetico": "0 kcal"
+    },
+    "precio_total": 2.55,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/16036287-queso-rallado-grana-padano-eroski-seleqtia-bolsa-100-g/",
+    "titulo": "QUESO RALLADO GRANA PADANO EROSKI SELEQTIA, BOLSA 100 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "29 gramos",
+      "Saturadas": "18 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "33 gramos",
+      "Sal": "1.5 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.7,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/16036287-queso-rallado-grana-padano-eroski-seleqtia-bolsa-100-g/?ratingsZone=true&withRating=true",
+    "titulo": "QUESO RALLADO GRANA PADANO EROSKI SELEQTIA, BOLSA 100 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "29 gramos",
+      "Saturadas": "18 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "33 gramos",
+      "Sal": "1.5 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.7,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25807090-atun-claro-en-aceite-de-oliva-eroski-pack-6x70-g/",
+    "titulo": "ATÚN CLARO EN ACEITE DE OLIVA EROSKI, PACK 6X70 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "vinagres especiales",
+      "Valor energetico": "0 kcal"
+    },
+    "precio_total": 4.9,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25807090-atun-claro-en-aceite-de-oliva-eroski-pack-6x70-g/?ratingsZone=true&withRating=true",
+    "titulo": "ATÚN CLARO EN ACEITE DE OLIVA EROSKI, PACK 6X70 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "vinagres especiales",
+      "Valor energetico": "0 kcal"
+    },
+    "precio_total": 4.9,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/21789656-atun-claro-al-natural-eroski-pack-6x56-g/",
+    "titulo": "ATÚN CLARO AL NATURAL EROSKI, PACK 6X56 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.5 gramos",
+      "Saturadas": "0.2 gramos",
+      "Hidratos de carbono": "0.51 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "21 gramos",
+      "Sal": "1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 4.2,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/21789656-atun-claro-al-natural-eroski-pack-6x56-g/?ratingsZone=true&withRating=true",
+    "titulo": "ATÚN CLARO AL NATURAL EROSKI, PACK 6X56 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.5 gramos",
+      "Saturadas": "0.2 gramos",
+      "Hidratos de carbono": "0.51 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "21 gramos",
+      "Sal": "1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 4.2,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25807108-atun-claro-en-aceite-de-girasol-eroski-pack-6x70-g/",
+    "titulo": "ATÚN CLARO EN ACEITE DE GIRASOL EROSKI, PACK 6X70 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "vinagres especiales",
+      "Valor energetico": "0 kcal"
+    },
+    "precio_total": 4.3,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25807108-atun-claro-en-aceite-de-girasol-eroski-pack-6x70-g/?ratingsZone=true&withRating=true",
+    "titulo": "ATÚN CLARO EN ACEITE DE GIRASOL EROSKI, PACK 6X70 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "vinagres especiales",
+      "Valor energetico": "0 kcal"
+    },
+    "precio_total": 4.3,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/15314461-ventresca-de-atun-claro-en-aceite-de-oliva-eroski-lata-111-g/",
+    "titulo": "VENTRESCA DE ATÚN CLARO EN ACEITE DE OLIVA EROSKI, LATA 111 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "7.2 gramos",
+      "Saturadas": "1.4 gramos",
+      "Hidratos de carbono": "0.5 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "26 gramos",
+      "Sal": "1.7 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.3,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/15314461-ventresca-de-atun-claro-en-aceite-de-oliva-eroski-lata-111-g/?ratingsZone=true&withRating=true",
+    "titulo": "VENTRESCA DE ATÚN CLARO EN ACEITE DE OLIVA EROSKI, LATA 111 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "7.2 gramos",
+      "Saturadas": "1.4 gramos",
+      "Hidratos de carbono": "0.5 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "26 gramos",
+      "Sal": "1.7 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.3,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/375741-atun-claro-en-aceite-de-oliva-albo-pack-3x92-g/",
+    "titulo": "ATÚN CLARO EN ACEITE DE OLIVA ALBO, PACK 3X92 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "33 gramos",
+      "Saturadas": "4.8 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "20 gramos",
+      "Sal": "0.88 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 7.1,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/375741-atun-claro-en-aceite-de-oliva-albo-pack-3x92-g/?ratingsZone=true&withRating=true",
+    "titulo": "ATÚN CLARO EN ACEITE DE OLIVA ALBO, PACK 3X92 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "33 gramos",
+      "Saturadas": "4.8 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "20 gramos",
+      "Sal": "0.88 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 7.1,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/12236402-atun-claro-en-aceite-de-oliva-eroski-frasco-185-g-/",
+    "titulo": "ATÚN CLARO EN ACEITE DE OLIVA EROSKI, FRASCO 185 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "9.9 gramos",
+      "Saturadas": "1.8 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "26.7 gramos",
+      "Sal": "1.2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.7,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/12236402-atun-claro-en-aceite-de-oliva-eroski-frasco-185-g-/?ratingsZone=true&withRating=true",
+    "titulo": "ATÚN CLARO EN ACEITE DE OLIVA EROSKI, FRASCO 185 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "9.9 gramos",
+      "Saturadas": "1.8 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "26.7 gramos",
+      "Sal": "1.2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.7,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/13207899-atun-en-aceite-de-girasol-servihostel-bolsa-1-kg/",
+    "titulo": "ATÚN EN ACEITE DE GIRASOL SERVIHOSTEL, BOLSA 1 KG",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "vinagres especiales",
+      "Valor energetico": "0 kcal"
+    },
+    "precio_total": 8.2,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/24082869-atun-claro-en-aceite-de-oliva-calvo-pack-3x65-g/",
+    "titulo": "ATÚN CLARO EN ACEITE DE OLIVA CALVO, PACK 3X65 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "19 gramos",
+      "Saturadas": "3.4 gramos",
+      "Hidratos de carbono": "1.9 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "20 gramos",
+      "Sal": "1.2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 4.29,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/24938912-atun-en-aceite-girasol-eroski-basic-lata-750-g/",
+    "titulo": "ATÚN EN ACEITE GIRASOL EROSKI BASIC, LATA 750 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "vinagres especiales",
+      "Valor energetico": "0 kcal"
+    },
+    "precio_total": 6.5,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/24938912-atun-en-aceite-girasol-eroski-basic-lata-750-g/?ratingsZone=true&withRating=true",
+    "titulo": "ATÚN EN ACEITE GIRASOL EROSKI BASIC, LATA 750 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "vinagres especiales",
+      "Valor energetico": "0 kcal"
+    },
+    "precio_total": 6.5,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/413864-atun-claro-en-aceite-de-oliva-eroski-lata-111-g/",
+    "titulo": "ATÚN CLARO EN ACEITE DE OLIVA EROSKI, LATA 111 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "18 gramos",
+      "Saturadas": "2.9 gramos",
+      "Hidratos de carbono": "0.5 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "22 gramos",
+      "Sal": "1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.55,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/413864-atun-claro-en-aceite-de-oliva-eroski-lata-111-g/?ratingsZone=true&withRating=true",
+    "titulo": "ATÚN CLARO EN ACEITE DE OLIVA EROSKI, LATA 111 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "18 gramos",
+      "Saturadas": "2.9 gramos",
+      "Hidratos de carbono": "0.5 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "22 gramos",
+      "Sal": "1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.55,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/17484460-atun-claro-en-aceite-de-oliva-eroski-frasco-400-g-/",
+    "titulo": "ATÚN CLARO EN ACEITE DE OLIVA EROSKI, FRASCO 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "9.9 gramos",
+      "Saturadas": "1.8 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "26.7 gramos",
+      "Sal": "1.2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 6.15,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/17484460-atun-claro-en-aceite-de-oliva-eroski-frasco-400-g-/?ratingsZone=true&withRating=true",
+    "titulo": "ATÚN CLARO EN ACEITE DE OLIVA EROSKI, FRASCO 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "9.9 gramos",
+      "Saturadas": "1.8 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "26.7 gramos",
+      "Sal": "1.2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 6.15,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/370338-atun-claro-al-natural-calvo-pack-3x56-g/",
+    "titulo": "ATÚN CLARO AL NATURAL CALVO, PACK 3X56 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.6 gramos",
+      "Saturadas": "0.1 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "20 gramos",
+      "Sal": "1.5 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.49,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/16050031-atun-claro-en-aceite-virgen-albo-pack-3x65-g/",
+    "titulo": "ATÚN CLARO EN ACEITE VIRGEN ALBO, PACK 3X65 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "33 gramos",
+      "Saturadas": "4.8 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "20 gramos",
+      "Sal": "0.88 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 5.95,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/24082927-atun-claro-en-aceite-de-oliva-calvo-pack-6x65-g/",
+    "titulo": "ATÚN CLARO EN ACEITE DE OLIVA CALVO, PACK 6X65 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "20 gramos",
+      "Saturadas": "3 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "20 gramos",
+      "Sal": "1.2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 7.65,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/14945265-atun-claro-en-aceite-de-oliva-la-espanola-calvo-pack-3x100-g/",
+    "titulo": "ATÚN CLARO EN ACEITE DE OLIVA LA ESPAÑOLA CALVO, PACK 3X100 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "20 gramos",
+      "Saturadas": "3.1 gramos",
+      "Hidratos de carbono": "2.2 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "21 gramos",
+      "Sal": "1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 7.25,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/900790-atun-claro-al-natural-eroski-pack-3x56-g/",
+    "titulo": "ATÚN CLARO AL NATURAL EROSKI, PACK 3X56 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.5 gramos",
+      "Saturadas": "0.2 gramos",
+      "Hidratos de carbono": "0.5 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "21 gramos",
+      "Sal": "1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.45,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/900790-atun-claro-al-natural-eroski-pack-3x56-g/?ratingsZone=true&withRating=true",
+    "titulo": "ATÚN CLARO AL NATURAL EROSKI, PACK 3X56 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.5 gramos",
+      "Saturadas": "0.2 gramos",
+      "Hidratos de carbono": "0.5 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "21 gramos",
+      "Sal": "1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.45,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25668302-atun-en-aceite-de-oliva-eroski-lata-750-g/",
+    "titulo": "ATÚN EN ACEITE DE OLIVA EROSKI, LATA 750 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "vinagres especiales",
+      "Valor energetico": "0 kcal"
+    },
+    "precio_total": 7.7,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/24537698-atun-claro-en-aceite-de-girasol-calvo-pack-6x65-g/",
+    "titulo": "ATÚN CLARO EN ACEITE DE GIRASOL CALVO, PACK 6X65 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "23 gramos",
+      "Saturadas": "2.5 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "20 gramos",
+      "Sal": "1.2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 6.75,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/21124441-atun-claro-en-aceite-de-oliva-cuca-frasco-180-g/",
+    "titulo": "ATÚN CLARO EN ACEITE DE OLIVA CUCA, FRASCO 180 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "10 gramos",
+      "Saturadas": "1.5 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "27 gramos",
+      "Sal": "1.2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 5.99,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/21124441-atun-claro-en-aceite-de-oliva-cuca-frasco-180-g/?ratingsZone=true&withRating=true",
+    "titulo": "ATÚN CLARO EN ACEITE DE OLIVA CUCA, FRASCO 180 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "10 gramos",
+      "Saturadas": "1.5 gramos",
+      "Hidratos de carbono": "0 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "27 gramos",
+      "Sal": "1.2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 5.99,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/900782-atun-claro-en-escabeche-eroski-pack-3x80-g/",
+    "titulo": "ATÚN CLARO EN ESCABECHE EROSKI, PACK 3X80 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5.5 gramos",
+      "Saturadas": "0.7 gramos",
+      "Hidratos de carbono": "0.5 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "22 gramos",
+      "Sal": "1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.35,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/17946732-pan-de-molde-con-corteza-eroski-basic-paquete-820-g/",
+    "titulo": "PAN DE MOLDE CON CORTEZA EROSKI BASIC, PAQUETE 820 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.9 gramos",
+      "Saturadas": "0.6 gramos",
+      "Hidratos de carbono": "46 gramos",
+      "Azucares": "4.5 gramos",
+      "Proteinas": "8.5 gramos",
+      "Sal": "1.1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.18,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/17946732-pan-de-molde-con-corteza-eroski-basic-paquete-820-g/?ratingsZone=true&withRating=true",
+    "titulo": "PAN DE MOLDE CON CORTEZA EROSKI BASIC, PAQUETE 820 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.9 gramos",
+      "Saturadas": "0.6 gramos",
+      "Hidratos de carbono": "46 gramos",
+      "Azucares": "4.5 gramos",
+      "Proteinas": "8.5 gramos",
+      "Sal": "1.1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.18,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/19399526-pan-rebanada-artesana-bimbo-paquete-500-g/",
+    "titulo": "PAN REBANADA ARTESANA BIMBO, PAQUETE 500 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.7 gramos",
+      "Saturadas": "0.5 gramos",
+      "Hidratos de carbono": "48 gramos",
+      "Azucares": "8.1 gramos",
+      "Proteinas": "8.2 gramos",
+      "Sal": "1.2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.89,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/19399526-pan-rebanada-artesana-bimbo-paquete-500-g/?ratingsZone=true&withRating=true",
+    "titulo": "PAN REBANADA ARTESANA BIMBO, PAQUETE 500 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.7 gramos",
+      "Saturadas": "0.5 gramos",
+      "Hidratos de carbono": "48 gramos",
+      "Azucares": "8.1 gramos",
+      "Proteinas": "8.2 gramos",
+      "Sal": "1.2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.89,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/19399542-pan-con-masa-madre-rustik-bakery-paquete-400-g/",
+    "titulo": "PAN CON MASA MADRE RUSTIK BAKERY, PAQUETE 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1.5 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "45 gramos",
+      "Azucares": "3.8 gramos",
+      "Proteinas": "9.4 gramos",
+      "Sal": "1.1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.99,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/2842854-pan-de-molde-sin-corteza-bimbo-paquete-450-g/",
+    "titulo": "PAN DE MOLDE SIN CORTEZA BIMBO, PAQUETE 450 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.7 gramos",
+      "Saturadas": "0.7 gramos",
+      "Hidratos de carbono": "44 gramos",
+      "Azucares": "5.1 gramos",
+      "Proteinas": "10 gramos",
+      "Sal": "0.86 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.09,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/2842854-pan-de-molde-sin-corteza-bimbo-paquete-450-g/?ratingsZone=true&withRating=true",
+    "titulo": "PAN DE MOLDE SIN CORTEZA BIMBO, PAQUETE 450 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.7 gramos",
+      "Saturadas": "0.7 gramos",
+      "Hidratos de carbono": "44 gramos",
+      "Azucares": "5.1 gramos",
+      "Proteinas": "10 gramos",
+      "Sal": "0.86 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.09,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/15649726-pan-de-molde-sin-corteza-eroski-paquete-450-g/",
+    "titulo": "PAN DE MOLDE SIN CORTEZA EROSKI, PAQUETE 450 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3 gramos",
+      "Saturadas": "0.7 gramos",
+      "Hidratos de carbono": "45.7 gramos",
+      "Azucares": "2.6 gramos",
+      "Proteinas": "8.2 gramos",
+      "Sal": "0.87 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.13,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/15649726-pan-de-molde-sin-corteza-eroski-paquete-450-g/?ratingsZone=true&withRating=true",
+    "titulo": "PAN DE MOLDE SIN CORTEZA EROSKI, PAQUETE 450 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3 gramos",
+      "Saturadas": "0.7 gramos",
+      "Hidratos de carbono": "45.7 gramos",
+      "Azucares": "2.6 gramos",
+      "Proteinas": "8.2 gramos",
+      "Sal": "0.87 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.13,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/315333-pan-tostado-integral-eroski-30-rebanadas-paquete-270-g/",
+    "titulo": "PAN TOSTADO INTEGRAL EROSKI, 30 REBANADAS, PAQUETE 270 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5.6 gramos",
+      "Saturadas": "0.7 gramos",
+      "Hidratos de carbono": "59 gramos",
+      "Azucares": "3.8 gramos",
+      "Proteinas": "14 gramos",
+      "Sal": "0.92 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.72,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/315333-pan-tostado-integral-eroski-30-rebanadas-paquete-270-g/?ratingsZone=true&withRating=true",
+    "titulo": "PAN TOSTADO INTEGRAL EROSKI, 30 REBANADAS, PAQUETE 270 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5.6 gramos",
+      "Saturadas": "0.7 gramos",
+      "Hidratos de carbono": "59 gramos",
+      "Azucares": "3.8 gramos",
+      "Proteinas": "14 gramos",
+      "Sal": "0.92 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.72,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/26167072-pan-de-molde-12-cereales-y-semillas-oroweat-paquete-550-g/",
+    "titulo": "PAN DE MOLDE 12 CEREALES Y SEMILLAS OROWEAT, PAQUETE 550 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5.4 gramos",
+      "Saturadas": "0.7 gramos",
+      "Hidratos de carbono": "40 gramos",
+      "Azucares": "5.9 gramos",
+      "Proteinas": "11 gramos",
+      "Sal": "0.76 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.19,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/26938027-pan-de-sandwich-bimbo-paquete-640-g/",
+    "titulo": "PAN DE SANDWICH BIMBO, PAQUETE 640 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3 gramos",
+      "Saturadas": "0.7 gramos",
+      "Hidratos de carbono": "45 gramos",
+      "Azucares": "5 gramos",
+      "Proteinas": "9.3 gramos",
+      "Sal": "1.2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.35,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/22884514-pan-molde-natural-100-sin-corteza-bimbo-paquete-450-g/",
+    "titulo": "PAN MOLDE NATURAL 100% SIN CORTEZA BIMBO, PAQUETE 450 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.7 gramos",
+      "Saturadas": "0.5 gramos",
+      "Hidratos de carbono": "43 gramos",
+      "Azucares": "4.3 gramos",
+      "Proteinas": "9.7 gramos",
+      "Sal": "1.1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.85,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/15700891-pan-hamburguesa-maxiburguers-eroski-4-unid-paquete-300-g/",
+    "titulo": "PAN HAMBURGUESA MAXIBURGUERS EROSKI, 4 UNID., PAQUETE 300 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5 gramos",
+      "Saturadas": "0.9 gramos",
+      "Hidratos de carbono": "47 gramos",
+      "Azucares": "4.9 gramos",
+      "Proteinas": "9.7 gramos",
+      "Sal": "1.4 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 0.85,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/15700891-pan-hamburguesa-maxiburguers-eroski-4-unid-paquete-300-g/?ratingsZone=true&withRating=true",
+    "titulo": "PAN HAMBURGUESA MAXIBURGUERS EROSKI, 4 UNID., PAQUETE 300 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5 gramos",
+      "Saturadas": "0.9 gramos",
+      "Hidratos de carbono": "47 gramos",
+      "Azucares": "4.9 gramos",
+      "Proteinas": "9.7 gramos",
+      "Sal": "1.4 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 0.85,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/24880619-pan-burger-brioche-eroski-4-uds-paquete-340-g/",
+    "titulo": "PAN BURGER BRIOCHE EROSKI, 4 UDS, PAQUETE 340 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5.4 gramos",
+      "Saturadas": "1.2 gramos",
+      "Hidratos de carbono": "45 gramos",
+      "Azucares": "7.5 gramos",
+      "Proteinas": "10 gramos",
+      "Sal": "1.2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.49,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/24880619-pan-burger-brioche-eroski-4-uds-paquete-340-g/?ratingsZone=true&withRating=true",
+    "titulo": "PAN BURGER BRIOCHE EROSKI, 4 UDS, PAQUETE 340 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5.4 gramos",
+      "Saturadas": "1.2 gramos",
+      "Hidratos de carbono": "45 gramos",
+      "Azucares": "7.5 gramos",
+      "Proteinas": "10 gramos",
+      "Sal": "1.2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.49,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/17877325-pan-de-molde-de-centeno-semillas-eroski-paquete-675-g/",
+    "titulo": "PAN DE MOLDE DE CENTENO-SEMILLAS EROSKI, PAQUETE 675 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3 gramos",
+      "Saturadas": "0.5 gramos",
+      "Hidratos de carbono": "46 gramos",
+      "Azucares": "4.5 gramos",
+      "Proteinas": "9.4 gramos",
+      "Sal": "1.2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.38,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/17877325-pan-de-molde-de-centeno-semillas-eroski-paquete-675-g/?ratingsZone=true&withRating=true",
+    "titulo": "PAN DE MOLDE DE CENTENO-SEMILLAS EROSKI, PAQUETE 675 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3 gramos",
+      "Saturadas": "0.5 gramos",
+      "Hidratos de carbono": "46 gramos",
+      "Azucares": "4.5 gramos",
+      "Proteinas": "9.4 gramos",
+      "Sal": "1.2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.38,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/26708883-panecillo-pincho-eroski-10-uds-bolsa-550-g/",
+    "titulo": "PANECILLO PINCHO EROSKI, 10 UDS, BOLSA 550 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "vinagres especiales",
+      "Valor energetico": "0 kcal"
+    },
+    "precio_total": 1.25,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/315317-pan-tostado-eroski-basic-30-rebanadas-paquete-270-g/",
+    "titulo": "PAN TOSTADO EROSKI BASIC, 30 REBANADAS, PAQUETE 270 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "4.6 gramos",
+      "Saturadas": "0.7 gramos",
+      "Hidratos de carbono": "73 gramos",
+      "Azucares": "4.9 gramos",
+      "Proteinas": "12 gramos",
+      "Sal": "1.2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.59,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/315317-pan-tostado-eroski-basic-30-rebanadas-paquete-270-g/?ratingsZone=true&withRating=true",
+    "titulo": "PAN TOSTADO EROSKI BASIC, 30 REBANADAS, PAQUETE 270 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "4.6 gramos",
+      "Saturadas": "0.7 gramos",
+      "Hidratos de carbono": "73 gramos",
+      "Azucares": "4.9 gramos",
+      "Proteinas": "12 gramos",
+      "Sal": "1.2 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.59,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25884438-pan-blanco-bimbo-paquete-430-g/",
+    "titulo": "PAN BLANCO BIMBO, PAQUETE 430 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "6.1 gramos",
+      "Saturadas": "1.2 gramos",
+      "Hidratos de carbono": "48 gramos",
+      "Azucares": "6.3 gramos",
+      "Proteinas": "10 gramos",
+      "Sal": "1.1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.5,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25884438-pan-blanco-bimbo-paquete-430-g/?ratingsZone=true&withRating=true",
+    "titulo": "PAN BLANCO BIMBO, PAQUETE 430 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "6.1 gramos",
+      "Saturadas": "1.2 gramos",
+      "Hidratos de carbono": "48 gramos",
+      "Azucares": "6.3 gramos",
+      "Proteinas": "10 gramos",
+      "Sal": "1.1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.5,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/587352-baguette-220-g/",
+    "titulo": "BAGUETTE, 220 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1.1 gramos",
+      "Saturadas": "0.2 gramos",
+      "Hidratos de carbono": "50 gramos",
+      "Azucares": "3.5 gramos",
+      "Proteinas": "7.9 gramos",
+      "Sal": "1.3 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 0.57,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/587352-baguette-220-g/?ratingsZone=true&withRating=true",
+    "titulo": "BAGUETTE, 220 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1.1 gramos",
+      "Saturadas": "0.2 gramos",
+      "Hidratos de carbono": "50 gramos",
+      "Azucares": "3.5 gramos",
+      "Proteinas": "7.9 gramos",
+      "Sal": "1.3 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 0.57,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/26167080-pan-de-molde-con-pipas-oroweat-paquete-550-g/",
+    "titulo": "PAN DE MOLDE CON PIPAS OROWEAT, PAQUETE 550 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "7 gramos",
+      "Saturadas": "0.9 gramos",
+      "Hidratos de carbono": "37 gramos",
+      "Azucares": "8 gramos",
+      "Proteinas": "12 gramos",
+      "Sal": "0.9 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.29,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/24605107-pan-de-pueblo-panusa-800-g/",
+    "titulo": "PAN DE PUEBLO PANUSA, 800 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.7 gramos",
+      "Saturadas": "0.2 gramos",
+      "Hidratos de carbono": "54 gramos",
+      "Azucares": "1.9 gramos",
+      "Proteinas": "8.2 gramos",
+      "Sal": "1.3 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.6,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/305540-pan-de-molde-natural-100-bimbo-paquete-460-g/",
+    "titulo": "PAN DE MOLDE NATURAL 100% BIMBO, PAQUETE 460 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.8 gramos",
+      "Saturadas": "0.5 gramos",
+      "Hidratos de carbono": "45 gramos",
+      "Azucares": "5 gramos",
+      "Proteinas": "9.6 gramos",
+      "Sal": "1.6 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.6,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/305540-pan-de-molde-natural-100-bimbo-paquete-460-g/?ratingsZone=true&withRating=true",
+    "titulo": "PAN DE MOLDE NATURAL 100% BIMBO, PAQUETE 460 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.8 gramos",
+      "Saturadas": "0.5 gramos",
+      "Hidratos de carbono": "45 gramos",
+      "Azucares": "5 gramos",
+      "Proteinas": "9.6 gramos",
+      "Sal": "1.6 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.6,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/303867-pan-tostado-integral-recondo-30-rebanadas-paquete-270-g/",
+    "titulo": "PAN TOSTADO INTEGRAL RECONDO, 30 REBANADAS, PAQUETE 270 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "4.7 gramos",
+      "Saturadas": "0.6 gramos",
+      "Hidratos de carbono": "66 gramos",
+      "Azucares": "4.6 gramos",
+      "Proteinas": "13 gramos",
+      "Sal": "1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.49,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/303867-pan-tostado-integral-recondo-30-rebanadas-paquete-270-g/?ratingsZone=true&withRating=true",
+    "titulo": "PAN TOSTADO INTEGRAL RECONDO, 30 REBANADAS, PAQUETE 270 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "4.7 gramos",
+      "Saturadas": "0.6 gramos",
+      "Hidratos de carbono": "66 gramos",
+      "Azucares": "4.6 gramos",
+      "Proteinas": "13 gramos",
+      "Sal": "1 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.49,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25948423-garbanzo-cocido-eroski-frasco-400-g/",
+    "titulo": "GARBANZO COCIDO EROSKI, FRASCO 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.8 gramos",
+      "Saturadas": "0.4 gramos",
+      "Hidratos de carbono": "17 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "6.8 gramos",
+      "Sal": "0.49 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 0.85,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25948423-garbanzo-cocido-eroski-frasco-400-g/?ratingsZone=true&withRating=true",
+    "titulo": "GARBANZO COCIDO EROSKI, FRASCO 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.8 gramos",
+      "Saturadas": "0.4 gramos",
+      "Hidratos de carbono": "17 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "6.8 gramos",
+      "Sal": "0.49 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 0.85,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/5215-lenteja-pardina-extra-luengo-paquete-1-kg/",
+    "titulo": "LENTEJA PARDINA EXTRA LUENGO, PAQUETE 1 KG",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.1 gramos",
+      "Saturadas": "0.4 gramos",
+      "Hidratos de carbono": "23 gramos",
+      "Azucares": "1.8 gramos",
+      "Proteinas": "23 gramos",
+      "Sal": "0 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.79,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/5215-lenteja-pardina-extra-luengo-paquete-1-kg/?ratingsZone=true&withRating=true",
+    "titulo": "LENTEJA PARDINA EXTRA LUENGO, PAQUETE 1 KG",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.1 gramos",
+      "Saturadas": "0.4 gramos",
+      "Hidratos de carbono": "23 gramos",
+      "Azucares": "1.8 gramos",
+      "Proteinas": "23 gramos",
+      "Sal": "0 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.79,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/11851565-garbanzo-cocido-luengo-frasco-400-g/",
+    "titulo": "GARBANZO COCIDO LUENGO, FRASCO 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1.9 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "12 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "5.4 gramos",
+      "Sal": "0.53 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.3,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/11851565-garbanzo-cocido-luengo-frasco-400-g/?ratingsZone=true&withRating=true",
+    "titulo": "GARBANZO COCIDO LUENGO, FRASCO 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1.9 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "12 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "5.4 gramos",
+      "Sal": "0.53 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.3,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25948381-lenteja-pardina-eroski-paquete-1-kg/",
+    "titulo": "LENTEJA PARDINA EROSKI, PAQUETE 1 KG",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gr",
+      "Saturadas": "0 gr",
+      "Hidratos de carbono": "0 gr",
+      "Azucares": "0 gr",
+      "Proteinas": "0 gr",
+      "Sal": "vinagres especiales",
+      "Valor energetico": "0 kcal"
+    },
+    "precio_total": 1.95,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/5199-alubia-blanca-larga-extra-luengo-paquete-1-kg/",
+    "titulo": "ALUBIA BLANCA LARGA EXTRA LUENGO, PAQUETE 1 KG",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.1 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "39 gramos",
+      "Azucares": "5.3 gramos",
+      "Proteinas": "20.8 gramos",
+      "Sal": "0.02 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 3.89,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/47985-alubia-morada-extra-luengo-paquete-1-kg/",
+    "titulo": "ALUBIA MORADA EXTRA LUENGO, PAQUETE 1 KG",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "39 gramos",
+      "Azucares": "5 gramos",
+      "Proteinas": "20 gramos",
+      "Sal": "0.01 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 4.95,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/17709544-garbanzo-cocido-al-natural-pedro-luis-frasco-500-g/",
+    "titulo": "GARBANZO COCIDO AL NATURAL PEDRO LUIS, FRASCO 500 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "11.8 gramos",
+      "Azucares": "0.5 gramos",
+      "Proteinas": "6 gramos",
+      "Sal": "0.9 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.55,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/17709544-garbanzo-cocido-al-natural-pedro-luis-frasco-500-g/?ratingsZone=true&withRating=true",
+    "titulo": "GARBANZO COCIDO AL NATURAL PEDRO LUIS, FRASCO 500 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "11.8 gramos",
+      "Azucares": "0.5 gramos",
+      "Proteinas": "6 gramos",
+      "Sal": "0.9 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.55,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/17055039-garbanzo-cocido-eroski-seleqtia-frasco-400-g/",
+    "titulo": "GARBANZO COCIDO EROSKI SELEQTIA, FRASCO 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1.9 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "11.53 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "5.4 gramos",
+      "Sal": "0.53 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.69,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/17055039-garbanzo-cocido-eroski-seleqtia-frasco-400-g/?ratingsZone=true&withRating=true",
+    "titulo": "GARBANZO COCIDO EROSKI SELEQTIA, FRASCO 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1.9 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "11.53 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "5.4 gramos",
+      "Sal": "0.53 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.69,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/15964752-garbanzo-lechoso-extra-luengo-paquete-1-kg/",
+    "titulo": "GARBANZO LECHOSO EXTRA LUENGO, PAQUETE 1 KG",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5.8 gramos",
+      "Saturadas": "1.1 gramos",
+      "Hidratos de carbono": "46 gramos",
+      "Azucares": "5.4 gramos",
+      "Proteinas": "21 gramos",
+      "Sal": "0 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 4.39,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/15964752-garbanzo-lechoso-extra-luengo-paquete-1-kg/?ratingsZone=true&withRating=true",
+    "titulo": "GARBANZO LECHOSO EXTRA LUENGO, PAQUETE 1 KG",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5.8 gramos",
+      "Saturadas": "1.1 gramos",
+      "Hidratos de carbono": "46 gramos",
+      "Azucares": "5.4 gramos",
+      "Proteinas": "21 gramos",
+      "Sal": "0 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 4.39,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/15941420-lentejas-luengo-frasco-400-g/",
+    "titulo": "LENTEJAS LUENGO, FRASCO 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gramos",
+      "Saturadas": "0 gramos",
+      "Hidratos de carbono": "13 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "6.6 gramos",
+      "Sal": "0.69 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.3,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/11848504-alubia-blanca-cocida-luengo-frasco-400-g/",
+    "titulo": "ALUBIA BLANCA COCIDA LUENGO, FRASCO 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gramos",
+      "Saturadas": "0 gramos",
+      "Hidratos de carbono": "12 gramos",
+      "Azucares": "0.6 gramos",
+      "Proteinas": "5.3 gramos",
+      "Sal": "0.54 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.3,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25948407-alubia-blanca-cocida-eroski-frasco-400-g/",
+    "titulo": "ALUBIA BLANCA COCIDA EROSKI, FRASCO 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.7 gramos",
+      "Saturadas": "0.1 gramos",
+      "Hidratos de carbono": "12 gramos",
+      "Azucares": "0.7 gramos",
+      "Proteinas": "6.1 gramos",
+      "Sal": "0.64 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 0.8,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/20065371-lenteja-igp-tierra-de-campos-e-seleqtia-caja-500-g/",
+    "titulo": "LENTEJA I.G.P. TIERRA DE CAMPOS E. SELEQTIA, CAJA 500 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.6 gramos",
+      "Saturadas": "0.5 gramos",
+      "Hidratos de carbono": "36 gramos",
+      "Azucares": "1.5 gramos",
+      "Proteinas": "22 gramos",
+      "Sal": "0 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.65,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/20065371-lenteja-igp-tierra-de-campos-e-seleqtia-caja-500-g/?ratingsZone=true&withRating=true",
+    "titulo": "LENTEJA I.G.P. TIERRA DE CAMPOS E. SELEQTIA, CAJA 500 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.6 gramos",
+      "Saturadas": "0.5 gramos",
+      "Hidratos de carbono": "36 gramos",
+      "Azucares": "1.5 gramos",
+      "Proteinas": "22 gramos",
+      "Sal": "0 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.65,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/11851607-alubia-roja-cocida-luengo-frasco-400-g-/",
+    "titulo": "ALUBIA ROJA COCIDA LUENGO, FRASCO 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gramos",
+      "Saturadas": "0 gramos",
+      "Hidratos de carbono": "9.9 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "5.8 gramos",
+      "Sal": "0.6 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.79,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/11851607-alubia-roja-cocida-luengo-frasco-400-g-/?ratingsZone=true&withRating=true",
+    "titulo": "ALUBIA ROJA COCIDA LUENGO, FRASCO 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0 gramos",
+      "Saturadas": "0 gramos",
+      "Hidratos de carbono": "9.9 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "5.8 gramos",
+      "Sal": "0.6 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.79,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25948431-lentejas-cocidas-eroski-frasco-400-g/",
+    "titulo": "LENTEJAS COCIDAS EROSKI, FRASCO 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.6 gramos",
+      "Saturadas": "0.1 gramos",
+      "Hidratos de carbono": "12 gramos",
+      "Azucares": "0.2 gramos",
+      "Proteinas": "6 gramos",
+      "Sal": "0.61 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 0.9,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/5223-garbanzo-selecto-luengo-paquete-1-kg/",
+    "titulo": "GARBANZO SELECTO LUENGO, PAQUETE 1 KG",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5.8 gramos",
+      "Saturadas": "1.1 gramos",
+      "Hidratos de carbono": "46 gramos",
+      "Azucares": "5.4 gramos",
+      "Proteinas": "21 gramos",
+      "Sal": "0.03 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 4.05,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/18789438-garbanzo-pedrosillano-cocido-natural-pedro-luis-frasco-500-g/",
+    "titulo": "GARBANZO PEDROSILLANO COCIDO NATURAL PEDRO LUIS, FRASCO 500 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1 gramos",
+      "Saturadas": "0.2 gramos",
+      "Hidratos de carbono": "11.7 gramos",
+      "Azucares": "0.5 gramos",
+      "Proteinas": "5.2 gramos",
+      "Sal": "0.87 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.55,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/23429517-garbanzo-cocido-eroski-bio-frasco-400-g/",
+    "titulo": "GARBANZO COCIDO EROSKI BIO, FRASCO 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.1 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "12 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "5.4 gramos",
+      "Sal": "0.53 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.99,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/23429517-garbanzo-cocido-eroski-bio-frasco-400-g/?ratingsZone=true&withRating=true",
+    "titulo": "GARBANZO COCIDO EROSKI BIO, FRASCO 400 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.1 gramos",
+      "Saturadas": "0.3 gramos",
+      "Hidratos de carbono": "12 gramos",
+      "Azucares": "0 gramos",
+      "Proteinas": "5.4 gramos",
+      "Sal": "0.53 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 1.99,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/25948324-alubia-blanca-larga-eroski-paquete-1-kg/",
+    "titulo": "ALUBIA BLANCA LARGA EROSKI, PAQUETE 1 KG",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2 gramos",
+      "Saturadas": "0.4 gramos",
+      "Hidratos de carbono": "33 gramos",
+      "Azucares": "3.5 gramos",
+      "Proteinas": "20 gramos",
+      "Sal": "0 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.45,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/17699190-alubias-rojas-al-natural-pedro-luis-frasco-500-g/",
+    "titulo": "ALUBIAS ROJAS AL NATURAL PEDRO LUIS, FRASCO 500 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.5 gramos",
+      "Saturadas": "0.5 gramos",
+      "Hidratos de carbono": "8 gramos",
+      "Azucares": "0.5 gramos",
+      "Proteinas": "5.6 gramos",
+      "Sal": "0.8 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.55,
+    "origen": "Eroski"
+  },
+  {
+    "url": "https://supermercado.eroski.es:443/es/productdetail/17699190-alubias-rojas-al-natural-pedro-luis-frasco-500-g/?ratingsZone=true&withRating=true",
+    "titulo": "ALUBIAS ROJAS AL NATURAL PEDRO LUIS, FRASCO 500 G",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.5 gramos",
+      "Saturadas": "0.5 gramos",
+      "Hidratos de carbono": "8 gramos",
+      "Azucares": "0.5 gramos",
+      "Proteinas": "5.6 gramos",
+      "Sal": "0.8 gramos",
+      "Valor energetico": "energía"
+    },
+    "precio_total": 2.55,
     "origen": "Eroski"
   }
 ]

@@ -2,10 +2,8 @@ import json
 import os
 import re
 import pandas as pd
-import numpy as np
 
 def limpiar_texto(texto):
-    """Limpia y minusculiza textos para procesamiento de lenguaje natural."""
     if pd.isna(texto): 
         return ""
     texto = str(texto).lower()
@@ -14,7 +12,6 @@ def limpiar_texto(texto):
     return texto.strip()
 
 def extraer_numero(valor):
-    """Convierte cadenas de texto en valores numericos de tipo float."""
     if pd.isna(valor) or str(valor).lower() == "energía" or str(valor).strip() == "": 
         return 0.0
     # Buscar patrones numericos con coma o punto
@@ -23,28 +20,29 @@ def extraer_numero(valor):
         return float(match.group(1).replace(',', '.'))
     return 0.0
 
-def procesar_rag_data():
+def limpiar_datos(datos=None):
     ruta_raiz = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     ruta_raw = os.path.join(ruta_raiz, "data", "raw", "productos.json")
     ruta_clean = os.path.join(ruta_raiz, "data", "clean", "productos_limpios.csv")
 
-    if not os.path.exists(ruta_raw):
-        print("Error: El archivo fuente productos.json no existe en data/raw/")
-        return
+    if datos is not None:
+        df = pd.DataFrame(datos)
+    else:
+        if not os.path.exists(ruta_raw):
+            print("Error: El archivo fuente productos.json no existe en data/raw/")
+            return None
+        try:
+            with open(ruta_raw, "r", encoding="utf-8") as f:
+                df = pd.DataFrame(json.load(f))
+        except Exception as e:
+            print(f"Error al leer el archivo JSON: {e}")
+            return None
 
-    # 1. Carga de datos desde JSON
-    try:
-        with open(ruta_raw, "r", encoding="utf-8") as f:
-            df = pd.DataFrame(json.load(f))
-    except Exception as e:
-        print(f"Error al leer el archivo JSON: {e}")
-        return
-
-    # 2. Eliminacion de duplicados y valores criticos
+    # Eliminacion de duplicados y valores criticos
     df = df.drop_duplicates(subset=['titulo'])
     df = df.dropna(subset=['titulo'])
 
-    # 3. Procesamiento de valores nutricionales
+    # Procesamiento de valores nutricionales
     # Desglosar el diccionario de nutricion
     nutri_df = df['valores_nutricionales_100_g'].apply(pd.Series)
     
@@ -54,7 +52,6 @@ def procesar_rag_data():
             return nutri_df[nombre_col].apply(extraer_numero)
         return 0.0
 
-    # Estandarizacion segun requerimientos del Reto #2
     df['precio'] = df['precio_total'].apply(extraer_numero)
     df['proteinas'] = obtener_columna_limpia('Proteinas')
     df['carbohidratos'] = obtener_columna_limpia('Hidratos de carbono')
@@ -67,8 +64,8 @@ def procesar_rag_data():
     df['sal'] = obtener_columna_limpia('Sal')
     df['fibra'] = obtener_columna_limpia('Fibra')
 
-    # 4. Normalizacion y Enriquecimiento
-    
+    # Normalizacion y Enriquecimiento
+
     # norm_precio: Escalado 0-1 (mas barato = valor mas cercano a 1)
     p_min, p_max = df['precio'].min(), df['precio'].max()
     if p_max > p_min:
@@ -80,7 +77,7 @@ def procesar_rag_data():
     prot_max = df['proteinas'].max()
     df['norm_nutri'] = (df['proteinas'] / prot_max * 100) if prot_max > 0 else 0.0
 
-    # score_nutricional: Balance de macronutrientes
+    # score_nutricional: Balance de macronutrientes basado en recompensar proteínas y penalizar elementos restrictivos (azúcares, grasas saturadas y especialmente la sal x2)
     df['score_nutricional'] = df['proteinas'] - (df['azucares'] + df['saturadas'] + (df['sal'] * 2))
 
     # texto_busqueda: Concatenacion para embeddings
@@ -89,7 +86,7 @@ def procesar_rag_data():
         df['origen'].apply(limpiar_texto)
     )
 
-    # 5. Seleccion final de columnas segun rubrica
+    # Seleccion final de columnas segun rubrica
     columnas_finales = [
         'titulo', 'precio', 'proteinas', 'carbohidratos', 'grasas', 
         'fibra', 'calories', 'texto_busqueda', 'norm_precio', 
@@ -98,13 +95,16 @@ def procesar_rag_data():
     
     df_output = df[columnas_finales]
 
-    # 6. Exportacion
+    # Exportacion
     os.makedirs(os.path.dirname(ruta_clean), exist_ok=True)
     df_output.to_csv(ruta_clean, index=False, sep=";", encoding="utf-8-sig")
 
-    print("Proceso de preprocesamiento finalizado con éxito.")
+    print("Proceso de preprocesamiento finalizado")
     print(f"Registros finales: {len(df_output)}")
     print(f"Archivo generado en: {ruta_clean}")
+    
+    # Devolvemos los datos limpios al final para que sigan su camino
+    return df_output
 
 if __name__ == "__main__":
-    procesar_rag_data()
+    limpiar_datos()

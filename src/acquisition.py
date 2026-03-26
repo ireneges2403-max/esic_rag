@@ -1,7 +1,6 @@
 import json
 import os
 import time
-import re
 from bs4 import BeautifulSoup
 
 try:
@@ -9,15 +8,19 @@ try:
     from selenium.webdriver.chrome.service import Service
     from selenium.webdriver.chrome.options import Options
     from webdriver_manager.chrome import ChromeDriverManager
+    
 except ImportError:
     print("Error: Faltan librerías. Ejecute: pip install selenium webdriver-manager beautifulsoup4")
     exit()
 
-def obtener_datos_eroski_profesional():
-    print("Iniciando extracción...")
+
+# PASO 1: NAVEGACIÓN Y RECOPILACIÓN DE ENLACES
+# Accedemos a la página de la categoría y esperamos a que cargue el contenido dinámico
+
+def obtener_datos():
     
     lista_final = []
-    objetivo = 210
+    objetivo = 350
     
     urls_busqueda = [
         "https://supermercado.eroski.es/es/search/results/?q=cereales",
@@ -64,14 +67,16 @@ def obtener_datos_eroski_profesional():
                     link = "https://supermercado.eroski.es" + a['href'] if not a['href'].startswith('http') else a['href']
                     if link not in enlaces_productos:
                         enlaces_productos.append(link)
-            
+
+# PASO 2: EXTRACCIÓN DETALLADA POR PRODUCTO
+# Iteramos sobre cada enlace recopilado para extraer la información específica
+
             for enlace in enlaces_productos:
                 if len(lista_final) >= objetivo:
                     break
                     
                 try:
                     driver.get(enlace)
-                    # El tiempo de espera se reduce ya que no cargamos imágenes
                     time.sleep(1.2) 
                     
                     s_det = BeautifulSoup(driver.page_source, 'html.parser')
@@ -80,7 +85,7 @@ def obtener_datos_eroski_profesional():
                         continue
                     titulo = titulo_elem.text.strip().upper()
                         
-                    # Extracción mediante metadatos JSON-LD
+                    # Obtenemos el precio de forma precisa buscando en la estructura JSON-LD oculta en el HTML, que es más estable que raspar clases visuales
                     precio_total = 0.0
                     scripts = s_det.find_all('script', type='application/ld+json')
                     for script in scripts:
@@ -97,7 +102,8 @@ def obtener_datos_eroski_profesional():
                     if precio_total == 0.0:
                         continue
                     
-                    # Extracción de valores nutricionales
+# PASO 3: EXTRACCIÓN DE LA INFORMACIÓN NUTRICIONAL
+# Inicializamos un diccionario por defecto y leemos el texto plano buscando las palabras clave (Grasas, Proteínas, etc.) para capturar el valor exacto
                     nutri = {k: "0 gr" for k in ["Grasas", "Saturadas", "Hidratos de carbono", "Azucares", "Proteinas", "Sal"]}
                     nutri["Valor energetico"] = "0 kcal"
                     
@@ -134,7 +140,8 @@ def obtener_datos_eroski_profesional():
     with open(ruta_archivo, "w", encoding="utf-8") as f:
         json.dump(lista_final, f, indent=2, ensure_ascii=False)
         
-    print(f"Proceso concluido. Archivo generado en: {ruta_archivo}")
+    print(f"Archivo generado en: {ruta_archivo}")
+    return lista_final
 
 if __name__ == "__main__":
-    obtener_datos_eroski_profesional()
+    obtener_datos()

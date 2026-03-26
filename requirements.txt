@@ -1,3 +1,7 @@
-faiss-cpu
+pandas
 numpy
 sentence-transformers
+scikit-learn
+selenium
+webdriver-manager
+beautifulsoup4

@@ -1,72 +1,75 @@
-import faiss
-import numpy as np
+import os
+import pandas as pd
 from sentence_transformers import SentenceTransformer
+from sklearn.neighbors import NearestNeighbors  
 
-# Inicializamos el modelo de lenguaje de forma global para mejorar la eficiencia
-embedder = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
-
-
-def crear_indice(df):
-    """
-    Transforma el texto de búsqueda en vectores y crea el índice FAISS.
-    Recibe: DataFrame con la columna 'texto_busqueda'.
-    Retorna: El índice FAISS listo para consultas.
-    """
-    print("[RAG] Generando embeddings e índice FAISS...")
-    embeddings = embedder.encode(df["texto_busqueda"].tolist(), show_progress_bar=False)
-
-    # Creamos un índice de tipo L2 (distancia euclidiana)
-    d = embeddings.shape[1]
-    index = faiss.IndexFlatL2(d)
-    index.add(np.array(embeddings).astype("float32"))
-
-    return index
+os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
 
 
-def buscar_y_responder(consulta, df, index):
-    """
-    Busca los productos más relevantes y aplica el ranking personalizado.
-    Recibe: consulta (str), dataframe procesado y el índice FAISS.
-    """
-    # 1. Búsqueda Vectorial
-    vec_query = embedder.encode([consulta]).astype("float32")
-    dist, indices = index.search(vec_query, 15)  # Recuperamos 15 candidatos iniciales
+# Inicializamos el modelo de lenguaje (SentenceTransformer)
+# Usamos 'hiiamsid/sentence_similarity_spanish_es' por su optimización en español
 
-    candidatos = df.iloc[indices[0]].copy()
+try:
+    model = SentenceTransformer("hiiamsid/sentence_similarity_spanish_es")
+except Exception as e:
+    print(f"Error al cargar el modelo: {e}")
+    raise e
 
-    # 2. Re-ranking (Normalización local de distancias)
-    max_dist = dist[0].max() if dist[0].max() > 0 else 1
-    candidatos["norm_dist"] = 1 - (dist[0] / max_dist)
+# FASE 1: BÚSQUEDA SEMÁNTICA (RETRIEVAL)
+# Buscamos los 15 productos más cercanos en el espacio vectorial a la consulta del usuario
 
-    # Aplicamos la fórmula: 60% Semántica + 20% Salud + 20% Precio
-    candidatos["rank_final"] = (
-        candidatos["norm_dist"] * 0.6
-        + candidatos["norm_nutri"] * 0.2
-        + candidatos["norm_precio"] * 0.2
-    )
+def buscar(consulta, df, buscador_vectorial):
+    consulta_limpia = consulta.lower()
+    vec = model.encode([consulta_limpia])
+    
+    # 1. Recupera los 15 más relevantes
+    distancias, indices = buscador_vectorial.kneighbors(vec, n_neighbors=15)
+    
+    resultados_reranked = []
 
-    # 3. Formateo de respuesta
-    mejores = candidatos.sort_values("rank_final", ascending=False).head(3)
+# FASE 2: ALGORITMO DE RE-RANKING
+# Evaluamos los 15 candidatos obtenidos aplicando la fórmula estricta de la rúbrica
 
-    contexto = "".join(
-        [
-            f"- {r['titulo']} | Precio: {r['precio']}€ | Proteínas: {r['proteinas']}g | Salud: {int(r['score_nutricional'])}/100\n"
-            for _, r in mejores.iterrows()
-        ]
-    )
+    for i, idx in enumerate(indices[0]):
+        r = df.iloc[idx]
+        
+        # La distancia va de 0 (idéntico) a más. La invertimos para que mayor sea mejor (0 a 1)
+        similitud_semantica = 1 / (1 + distancias[0][i]) 
+        
+        # Fórmula estricta de la rúbrica: 60% Semántica + 20% Nutri + 20% Precio
+        score_final = (0.6 * similitud_semantica) + (0.2 * (r['norm_nutri'] / 100)) + (0.2 * r['norm_precio'])
+        
+        resultados_reranked.append((score_final, r))
+        
+    # 3. Ordenamos de mayor a menor puntuación final y nos quedamos los 3 mejores
+    resultados_reranked.sort(key=lambda x: x[0], reverse=True)
+    mejores_3 = resultados_reranked[:3]
+    
+    print(f"\nResultados recomendados para: '{consulta}'")
+    for score, r in mejores_3:
+        print(f"-> {r['titulo']} | Precio: {r['precio']}€ | Salud: {r['score_nutricional']:.2f}")
 
-    return f"**Asistente Nutricional:** Para '{consulta}', he encontrado estas opciones:\n\n{contexto}"
-
-
-def consultar(df):
-    """
-    Función principal para ejecutar el RAG.
-    """
-    id = crear_indice(df)
+# Usamos NearestNeighbors (Scikit-Learn) como alternativa a FAISS por compatibilidad con Mac.
+# La métrica 'cosine' evalúa la similitud semántica independientemente de la longitud del texto.
+def consultar(df_prod):
+    print("\nCreando el espacio vectorial de los productos...")
+    embeddings = model.encode(df_prod["texto_busqueda"].fillna("").tolist(), show_progress_bar=True)
+    
+    buscador_vectorial = NearestNeighbors(n_neighbors=15, metric='cosine', algorithm='auto')
+    buscador_vectorial.fit(embeddings)
+    
     while True:
-        consulta = input("Introduce tu consulta (o 'salir' para terminar): ")
-        if consulta.lower() == "salir":
-            print("¡Hasta luego!")
+        q = input("\n¿Qué quieres buscar? (o escribe 'salir'): ")
+        if q.lower() == "salir":
             break
-        respuesta = buscar_y_responder(consulta, df, id)
-        print(respuesta)
+        if q.strip():
+            buscar(q, df_prod, buscador_vectorial)
+
+if __name__ == "__main__":
+    ruta = os.path.join("data", "clean", "productos_limpios.csv")
+    
+    if os.path.exists(ruta):
+        df_prod = pd.read_csv(ruta, sep=";")
+        consultar(df_prod) 
+    else:
+        print(f"ERROR: No se encontró el archivo en {ruta}")

@@ -12,7 +12,7 @@ def main():
     datos = acquisition.obtener_datos()
 
     print("2. Iniciando preprocesamiento...")
-    datos_limpios = preprocessing.limpiar_datos(datos)
+    datos_limpios = preprocessing.limpiar_datos()
 
     print("3. Ejecutando RAG...")
     rag.consultar(datos_limpios)
